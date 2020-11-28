@@ -5,3 +5,4 @@ litematica
 tweakeroo
 minihud
 目前優先翻譯主條目
+註:請全部用unicode
