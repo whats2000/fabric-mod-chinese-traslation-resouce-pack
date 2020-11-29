@@ -92,5 +92,5 @@
 
   "minihud.message.distance_reference_point_set": "\u5c07\u8ddd\u96e2\u53c3\u8003\u9ede\u8a2d\u7f6e\u70ba %s",
   "minihud.message.seed_set": "MiniHUD: \u8a2d\u7f6e\u4e16\u754c\u7a2e\u5b50\u70ba '%s'",
-  "minihud.message.spawn_set": "MiniHUD: \u8a2d\u7f6e\u4e16\u754c\u91cd\u751f\u9ede\u70ba %s",
+  "minihud.message.spawn_set": "MiniHUD: \u8a2d\u7f6e\u4e16\u754c\u91cd\u751f\u9ede\u70ba %s"
 }
