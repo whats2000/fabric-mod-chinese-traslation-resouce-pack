@@ -1,4 +1,4 @@
-# traditional-traslation-resouce-pack
+# chinese-traslation-resouce-pack
 Making traslate for mod
 目前有翻譯主條目的有
 litematica
