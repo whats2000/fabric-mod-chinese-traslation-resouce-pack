@@ -1,0 +1,121 @@
+{
+    "malilib.config.comment.keybind_settings.activate_on": "\u5728\u6309\u4e0b\u6216\u91cb\u653e\u7d44\u5408\u9375\u6642\uff0c\u662f\u5426\u555f\u7528\u7e6b\u7d50\u7684\u6309\u9375",
+    "malilib.config.comment.keybind_settings.allow_empty_keybind": "\u672a\u7e6b\u7d50\u7684\u6309\u9375\u662f\u5426\u6709\u6548\n(\u9019\u5c07\u4f7f\u5f97\u6309\u9375\u88ab\u6301\u7e8c\u555f\u7528)",
+    "malilib.config.comment.keybind_settings.allow_extra_keys": "\u5728\u64c1\u6709\u984d\u5916\u7684\u7e6b\u7d50\u6309\u9375\u6642\uff0c\u4ecd\u7136\u53ef\u4ee5\u555f\u7528\u7e6b\u7d50\u7684\u6309\u9375",
+    "malilib.config.comment.keybind_settings.cancel_further": "\u7576\u7e6b\u7d50\u7684\u6309\u9375\u555f\u7528\u6642\uff0c\u53d6\u6d88\u5c0d\u6700\u5f8c\u4e00\u6b21\u6309\u4e0b\u7684\u9375\u6240\u9032\u884c\u7684\u9032\u4e00\u6b65\u8655\u7406",
+    "malilib.config.comment.keybind_settings.context": "\u7e6b\u7d50\u7684\u6309\u9375\u53ef\u4ee5\u5728\u904a\u6232\u4e2d\u6216GUI\u4e2d\u555f\u7528\u55ce",
+    "malilib.config.comment.keybind_settings.exclusive": "\u5982\u679c\u70ba\u771f\uff0c\u5247\u6b64\u6309\u9375\u70ba\u7b2c\u4e00\u9806\u4f4d\u555f\u7528\u7684\u7e6b\u7d50\u6309\u9375\n\u7576\u5176\u4ed6\u6309\u9375\u88ab\u91cb\u653e\u540e\uff0c\u8a72\u6309\u9375\u5c07\u91cd\u7f6e",
+    "malilib.config.comment.keybind_settings.order_sensitive": "\u7e6b\u7d50\u7684\u6309\u9375\u9700\u8981\u6309\u7167\u8a2d\u5b9a\u7684\u7279\u5b9a\u9806\u5e8f\u6309\u4e0b\u55ce\uff1f",
+
+    "malilib.error.failed_to_create_directory": "\u5efa\u7acb'%s'\u76ee\u9304\u5931\u6557",
+    "malilib.error.file_or_directory_already_exists": "'%s'\u6a94\u6848\u6216\u76ee\u9304\u5df2\u7d93\u5b58\u5728",
+    "malilib.error.invalid_directory": "Invalid directory name '%s'",
+    "malilib.error.invalid_block_blacklist_entry": "\u9ed1\u540d\u55ae\u6216\u767d\u540d\u55ae\u4e2d\u7684\u7121\u6548\u65b9\u584a: '%s'",
+    "malilib.error.invalid_item_blacklist_entry": "\u9ed1\u540d\u55ae\u6216\u767d\u540d\u55ae\u4e2d\u7121\u6548\u7684\u7269\u54c1\u540d\u7a31: '%s'",
+
+    "malilib.gui.button.cancel": "\u53d6\u6d88",
+    "malilib.gui.button.ok": "\u78ba\u5b9a",
+    "malilib.gui.button.reset": "\u91cd\u7f6e",
+    "malilib.gui.button.reset.caps": "\u91cd\u7f6e",
+
+    "malilib.gui.button.render_layers_gui.axis": "\u8ef8: %s",
+    "malilib.gui.button.render_layers_gui.layers": "\u986f\u793a\u5c64: %s",
+    "malilib.gui.button.render_layers_gui.set_here": "\u8a2d\u5b9a\u5230\u73a9\u5bb6\u4f4d\u7f6e",
+
+    "malilib.gui.button.hover.directory_widget.create_directory": "\u5efa\u7acb\u4e00\u500b\u65b0\u76ee\u9304",
+    "malilib.gui.button.hover.directory_widget.root": "\u5207\u63db\u5230\u6839\u76ee\u9304/\u57fa\u672c\u76ee\u9304",
+    "malilib.gui.button.hover.directory_widget.up": "\u5207\u63db\u5230\u7236\u76ee\u9304",
+    "malilib.gui.button.hover.hold_shift_for_info": "\u00a7o\u6309\u4f4fShift\u9375\u53ef\u7372\u5f97\u66f4\u591a\u8cc7\u8a0a\u00a7r",
+    "malilib.gui.button.hover.plus_minus_tip": "\u5de6\u9375\u55ae\u64ca\u4ee5\u589e\u5927\n\u53f3\u9375\u55ae\u64ca\u4ee5\u6e1b\u5c0f\nShift\u6216Alt\u589e\u5927\u5c3a\u5bf8",
+
+    "malilib.gui.label.block_snap.center": "\u4e2d\u5fc3",
+    "malilib.gui.label.block_snap.corner": "\u89d2",
+    "malilib.gui.label.block_snap.none": "\u7121",
+
+    "malilib.gui.label_colored.off": "\u00a7c\u95dc\u9589\u00a7r",
+    "malilib.gui.label_colored.on": "\u00a7a\u958b\u555f\u00a7r",
+
+    "malilib.gui.label.color_editor.current_color": "\u76ee\u524d\u984f\u8272:",
+
+    "malilib.gui.label.keybind_settings.activate_on": "\u958b\u555f",
+    "malilib.gui.label.keybind_settings.allow_empty_keybind": "\u5141\u8a31\u7e6b\u7d50\u6309\u9375\u70ba\u7a7a",
+    "malilib.gui.label.keybind_settings.allow_extra_keys": "\u5141\u8a31\u984d\u5916\u7e6b\u7d50\u6309\u9375",
+    "malilib.gui.label.keybind_settings.cancel_further": "\u53d6\u6d88\u9032\u4e00\u6b65\u8655\u7406",
+    "malilib.gui.label.keybind_settings.context": "\u524d\u5f8c\u95dc\u4fc2",
+    "malilib.gui.label.keybind_settings.exclusive": "\u55ae\u7368",
+    "malilib.gui.label.keybind_settings.order_sensitive": "\u9700\u6c42\u9806\u5e8f",
+    "malilib.gui.label.keybind_settings.tips": "-\u5de6\u9375\u914d\u7f6e\n-\u53f3\u9375\u91cd\u7f6e\u70ba\u9810\u8a2d\u503c",
+    "malilib.gui.label.keybind_settings.title_advanced_keybind_settings": "\u9ad8\u7d1a\u9375\u7e6b\u7d50\u8a2d\u5b9a",
+
+    "malilib.gui.label.layer_mode.all": "\u986f\u793a\u6240\u6709",
+    "malilib.gui.label.layer_mode.all_above": "\u4ee5\u4e0a\u6240\u6709\u5c64",
+    "malilib.gui.label.layer_mode.all_below": "\u4ee5\u4e0b\u6240\u6709\u5c64",
+    "malilib.gui.label.layer_mode.layer_range": "\u4e4b\u9593\u6240\u6709\u5c64",
+    "malilib.gui.label.layer_mode.single_layer": "\u55ae\u5c64",
+
+    "malilib.gui.label.no": "\u5426",
+    "malilib.gui.label.yes": "\u662f",
+
+    "malilib.gui.label.render_layers.layer": "\u5c64\u6578",
+    "malilib.gui.label.render_layers.layer_max": "\u6700\u5927\u5c64",
+    "malilib.gui.label.render_layers.layer_min": "\u6700\u5c0f\u5c64",
+
+    "malilib.gui.title.all_hotkeys": "\u6240\u6709\u8a3b\u518a\u7684\u71b1\u9375",
+    "malilib.gui.title.color_editor": "\u984f\u8272\u7de8\u8f2f",
+    "malilib.gui.title.configs": "malilib \u914d\u7f6e",
+    "malilib.gui.title.create_directory": "\u5efa\u7acb\u4e00\u500b\u65b0\u76ee\u9304",
+    "malilib.gui.title.debug": "\u9664\u932f",
+    "malilib.gui.title.generic": "\u901a\u7528",
+    "malilib.gui.title.keybind_settings.advanced": "\u9ad8\u7d1a\u5feb\u6377\u9375\u7e6b\u7d50\u8a2d\u5b9a %s",
+    "malilib.gui.title.string_list_edit": "\u7de8\u8f2f'%s'\u7684\u5b57\u4e32\u5217\u8868",
+
+    "malilib.label.active_mode.always": "\u7e3d\u662f",
+    "malilib.label.active_mode.never": "\u6c7a\u4e0d",
+    "malilib.label.active_mode.with_key": "\u9700\u8981\u6309\u9375",
+
+    "malilib.label.key_action.both": "\u5169\u8005\u90fd",
+    "malilib.label.key_action.press": "\u6309\u4e0b",
+    "malilib.label.key_action.release": "\u91cb\u653e",
+
+    "malilib.label.key_context.any": "\u4efb\u4f55",
+    "malilib.label.key_context.gui": "\u754c\u9762\u5167",
+    "malilib.label.key_context.ingame": "\u904a\u6232\u5167",
+
+    "malilib.label.list_type.blacklist": "\u9ed1\u540d\u55ae",
+    "malilib.label.list_type.none": "\u7121",
+    "malilib.label.list_type.whitelist": "\u767d\u540d\u55ae",
+
+    "malilib.label.alignment.top_left": "\u5de6\u4e0a\u89d2",
+    "malilib.label.alignment.top_right": "\u53f3\u4e0a\u89d2",
+    "malilib.label.alignment.bottom_left": "\u5de6\u4e0b\u89d2",
+    "malilib.label.alignment.bottom_right": "\u53f3\u4e0b\u89d2",
+    "malilib.label.alignment.center": "\u4e2d\u9593",
+
+    "malilib.message.directory_created": "\u5df2\u5efa\u7acb'%s'\u76ee\u9304",
+    "malilib.message.toggled": "\u5207\u63db %s %s",
+    "malilib.message.value.off": "\u95dc\u9589",
+    "malilib.message.value.on": "\u6253\u958b",
+
+    "malilib.message.formatting_code.error": "\u00a7c",
+    "malilib.message.formatting_code.info": "\u00a7f",
+    "malilib.message.formatting_code.success": "\u00a7a",
+    "malilib.message.formatting_code.warning": "\u00a76",
+
+    "malilib.message.layer_range.range_max": "\u6700\u5927",
+    "malilib.message.layer_range.range_min": "\u6700\u5c0f",
+    "malilib.message.moved_layer_range": "\u6574\u9ad4\u79fb\u52d5 by \u00a7a%s\u00a7r on the \u00a7a%s\u00a7r axis",
+    "malilib.message.moved_layer_range_boundary": "\u79fb\u52d5\u5716\u5c64\u908a\u754c \u00a7a%s\u00a7r by \u00a7a%s\u00a7r on the \u00a7a%s\u00a7r axis",
+    "malilib.message.moved_max_layer_to": "\u6700\u5927\u5c64\u6578\u8a2d\u5b9a\u70ba %s",
+    "malilib.message.moved_min_layer_to": "\u6700\u5c0f\u5c64\u6578\u8a2d\u5b9a\u70ba %s",
+    "malilib.message.set_layer_axis_to": "\u986f\u793a\u8ef8\u70ba %s",
+    "malilib.message.set_layer_mode_to": "\u986f\u793a\u6a21\u5f0f\u70ba %s",
+    "malilib.message.set_layer_to": "\u8a2d\u5b9a\u5c64\u6578\u81f3 %s",
+
+    "Context":"\u74b0\u5883",
+    "Activate On":"\u958b\u555f\u555f\u7528",
+    "Allow empty keybind":"\u5141\u8a31\u7e6b\u7d50\u70ba\u7a7a",
+    "Allow extra keys":"\u5141\u8a31\u984d\u5916\u7e6b\u7d50",
+    "Order Sensitive":"\u9806\u5e8f\u654f\u611f",
+    "Exclusive":"\u662f\u5426\u7368\u7acb",
+    "Cancel further processing":"\u53d6\u6d88\u9032\u4e00\u6b65\u8655\u7406"
+}
