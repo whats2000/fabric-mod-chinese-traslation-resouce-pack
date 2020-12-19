@@ -6,6 +6,6 @@ Making traslate for mod<br>
 * minihud
 * malilib
 * itemscroller<br>
-目前優先翻譯主條目<br>
+
 註:繁體請全部用unicode<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563
