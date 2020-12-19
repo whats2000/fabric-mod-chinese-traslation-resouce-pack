@@ -284,7 +284,7 @@
     "infoFPS":"infoFPS-\u5e40\u6578\u8cc7\u8a0a",
     "Show the current FPS":"\u986f\u793a\u76ee\u524d\u5e40\u6578",
     "infoHoneyLevel": "infoHoneyLevel-\u8702\u871c\u5132\u5b58\u7b49\u7d1a\u986f\u793a",
-    "Show the honey level the targeted Hive or Nest.\nNOTE: This only works in single player without server-side support.": "\u986f\u793a\u8702\u871c\u5132\u5b58\u7b49\u7d1a\n\u6ce8\u610f:\u9019\u53ea\u80fd\u5728\u55ae\u6a5f\u6216\u8005\u6709\u4f3a\u670d\u5668\u7aef\u652f\u6301\u7684\u4f3a\u670d\u5668",
+    "Show the honey level the targeted Hive or Nest.\nNote: This only works in single player without server-side support.": "\u986f\u793a\u8702\u871c\u5132\u5b58\u7b49\u7d1a\n\u6ce8\u610f:\u9019\u53ea\u80fd\u5728\u55ae\u6a5f\u6216\u8005\u6709\u4f3a\u670d\u5668\u7aef\u652f\u6301\u7684\u4f3a\u670d\u5668",
     "infoLightLevel":"infoLightLevel-\u5149\u7167\u7b49\u7d1a\u8cc7\u8a0a",
     "Show the current light level":"\u986f\u793a\u76ee\u524d\u5149\u7167\u7b49\u7d1a",
     "infoLookingAtBlock":"infoLooking-\u65b9\u584a\u4f4d\u7f6e\u8cc7\u8a0a",
