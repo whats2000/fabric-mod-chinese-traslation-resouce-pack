@@ -15,7 +15,7 @@
 
     "tweakeroo.gui.button.misc.command_block.hover.update_execution": "\u662f\u5426\u5728\u4e00\u500b\u904a\u6232\u523b\u4e2d\u591a\u6b21\u555f\u7528",
 
-    "tweakeroo.gui.title.configs": "Tweakeroo \u914d\u7f6e\u754c\u9762 \u53f0\u7063\u7d05\u77f3\u79d1\u6280\uff08TWRCS\uff09-2020.12.19",
+    "tweakeroo.gui.title.configs": "Tweakeroo \u914d\u7f6e\u754c\u9762 \u53f0\u7d05\u79d1\u7ffb\u8b6f (TWRCS)-2020.12.19",
 
     "tweakeroo.hotkeys.category.disable_toggle_hotkeys": "\u7981\u7528\u5feb\u6377\u9375\u5207\u63db",
     "tweakeroo.hotkeys.category.generic_hotkeys": "\u901a\u7528\u5feb\u6377\u9375",
@@ -508,10 +508,10 @@
 	"The number of game ticks to hold down use":"\u8a72\u529f\u80fd\u63a7\u5236\u73a9\u5bb6\u6301\u7e8c\u4f7f\u7528\u53f3\u9375\u7684\u6642\u9593",
 	"periodicHoldUseInterval":"periodicHoldUse-\u53f3\u9375\u6301\u7e8cCD",
 	"The number of game ticks between starting to hold down use (right click)":"\u8a72\u529f\u80fd\u63a7\u5236\u73a9\u5bb6\u6bcf\u9694\u591a\u5c11\u523b\u6301\u7e8c\u4f7f\u7528\u53f3\u9375",
-	// \u5217\u8868\u66f4\u65b0
+	// 列表更新
 	"creativeExtraItems":"creativeExtra-\u5275\u9020\u984d\u5916\u7269\u54c1\u6e05\u55ae",
 	"Extra items that should be appended to the creative inventory.\nCurrently these will appear in the Transportation category.\nIn the future the group per added item will be customizable.":"\u60f3\u8981\u9644\u52a0\u5230\u5275\u9020\u6a21\u5f0f\u6e05\u55ae\u7576\u4e2d\u7684\u7269\u54c1\n\u9019\u4e9b\u7269\u54c1\u5c07\u6703\u51fa\u73fe\u5728\u904b\u8f38\u985e\u5225\u7576\u4e2d\n\uff08\u9019\u5927\u591a\u6578\u90fd\u662f\u547d\u4ee4\u65b9\u584a\u4ec0\u9ebc\u7684\n\u653e\u5728\u7d05\u77f3\u91cc\u4e0d\u597d\u55ce\uff1f\u2014\u2014\u4f86\u8457ZMDF\u7684\u5410\u69fd\uff09\n\u5728\u672a\u4f86\u7684\u7248\u672c\u4e2d\u6bcf\u500b\u65b0\u589e\u9805\u7684\u7d44\u90fd\u662f\u53ef\u81ea\u5b9a\u7fa9\u7684\uff08\u55ef\uff0c\u9019\u662fmasa\u8aaa\u7684\uff09",
-	// \u529f\u80fd\u958b\u555f\u8a2d\u5b9a\u66f4\u65b0
+	// 功能開啟設定更新
 	"tweakCreativeExtraItems":"tweakCreativeExtra-\u5275\u9020\u984d\u5916\u7269\u54c1",
 	"Adds custom items to item groups.\nSee Lists -> 'creativeExtraItems' to control which items are added to the groups.\nNote: Currently these will be added to the Transportation group\n(because it has the elast items), but in the future\nthe groups will be configurable per added item":"\u5c07\u81ea\u5b9a\u7fa9\u7269\u54c1\u65b0\u589e\u5230\u7269\u54c1\u5eab\n\u6aa2\u8996\u5217\u8868\u7576\u4e2d\u7684\uff08creativeExtra\u5275\u9020\u984d\u5916\u7269\u54c1\u6e05\u55ae\uff09\n\u4f86\u63a7\u5236\u54ea\u4e9b\u7269\u54c1\u5c07\u88ab\u65b0\u589e\u9032\u5165\u7269\u54c1\u5eab\n\u6ce8\u610f\uff1a\u76ee\u524d\u9019\u4e9b\u7269\u54c1\u50c5\u50c5\u6703\u88ab\u65b0\u589e\u81f3\u904b\u8f38\u6b04\n\u4f46\u662f\u5728\u5c07\u4f86\u9019\u4e9b\u7269\u54c1\u5c07\u53ef\u4ee5\u88ab\u4efb\u610f\u65b0\u589e\u81f3\u4e0d\u540c\u5206\u985e\u3002",
 	"tweakFakeSneakPlacement":"tweakFakeSneak-\u507d\u6f5b\u884c\u5347\u7d1a",
@@ -522,7 +522,7 @@
 	"Enables periodically holding use for a configurable amount of time.\nConfigure the interval in Generic -> periodicHoldUseInterval\nand the duration in periodicHoldUseDuration\\n\u00a76Note: You should not use the normal hold use\u00a7r\n\u00a76or the periodic use at the same time\u00a7r":"\u555f\u7528\u9031\u671f\u6027\u9577\u6309\u53f3\u9375\n\u5176\u6301\u7e8c\u6642\u9593\u8207\u5faa\u74b0\u9031\u671f\u5728\u901a\u7528\u8a2d\u5b9a\u4e2d\u8abf\u6574\n\u00a76\u6ce8\u610f\uff1a\u4f60\u4e0d\u61c9\u8a72\u540c\u6642\u4f7f\u7528\u9577\u6309\u53f3\u9375\u8207\u8a72\u529f\u80fd\u00a7r",
 	"tweakRenderEdgeChunks":"tweakRenderEdgeChunks-\u908a\u7de3\u5340\u584a\u6e32\u67d3",
 	"Allows the edge-most client-loaded chunks to render.\nVanilla doesn't allow rendering chunks that don't have\nall the adjacent chunks loaded, meaning that the edge-most chunk\nof the client's loaded won't render in vanilla.\nThis is also very helpful in the Free Camera mode!":"\u5141\u8a31\u6e32\u67d3\u6700\u908a\u7de3\u5ba2\u6236\u7aef\u6240\u8f09\u5165\u7684\u5340\u584a\n\u539f\u7248\u7576\u4e2d\u4e0d\u5141\u8a31\u6e32\u67d3\u6c92\u6709\u8f09\u5165\u6240\u6709\u76f8\u9130\u7684\u5340\u584a\n\u9019\u610f\u5473\u8457\u5ba2\u6236\u7aef\u8f09\u5165\u7684\u5927\u90e8\u5206\u908a\u7de3\u5340\u584a\u4e0d\u80fd\u6b63\u5e38\u986f\u793a\n\u00a76\u9019\u5728\u9748\u9b42\u51fa\u7ac5\u72c0\u614b\u4e0b\u6bd4\u8f03\u6709\u7528\u00a7r",
-	// \u901a\u7528\u8a2d\u5b9a\u5feb\u6377\u9375\u66f4\u65b0
+	// 通用設定快捷鍵更新
 	"toggleGrabCursor":"\u6ed1\u9f20\u9396\u5b9a",
 	"Grabs or ungrabs the mouse cursor, depending on the current state":"\u6293\u53d6\u6216\u53d6\u6d88\u6293\u53d6\u6e38\u6a19\uff0c\u7576\u7136\u9019\u53d6\u6c7a\u65bc\u76ee\u524d\u72c0\u614b"
  }
