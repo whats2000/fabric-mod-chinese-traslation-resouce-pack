@@ -283,6 +283,8 @@
 	"Show the player's current facing":"显示玩家面向的方向",
 	"infoFPS":"infoFPS帧数信息",
 	"Show the current FPS":"显示当前帧数",
+	"infoHoneyLevel": "infoHoneyLevel-蜂蜜储存等级显示",
+	"Show the honey level the targeted Hive or Nest.\nNote: This only works in single player without server-side support.": "显示蜂蜜储存等级\n注意:这只能在单机或者有服务器端支持的服务器",
 	"infoLightLevel":"infoLightLevel光照等级信息",
 	"Show the current light level":"显示当前光照等级",
 	"infoLookingAtBlock":"infoLooking方块位置信息",
