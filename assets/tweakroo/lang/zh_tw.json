@@ -413,6 +413,8 @@
 	"Whether or not holding shift is required for the Shulker Box preview":"\u754c\u4f0f\u76d2\u9810\u89bd\u662f\u5426\u9700\u8981\u6309\u4f4fshift\u9375",
 	"slotSyncWorkaround":"slotSync-\u540c\u6b65\u65b9\u6848",
 	"This prevents the server from overriding the durability or\nstack size on items that are being used quickly for example\nwith the fast right click tweak.":"\u9019\u53ef\u4ee5\u9632\u6b62\u4f3a\u670d\u5668\u8986\u84cb\u6b63\u5728\u5feb\u901f\u4f7f\u7528\u7684\u5c08\u6848\uff0c\u6bd4\u5982\u9023\u9ede\u5668\u3002",
+	"slotsyncworkaroundalways" :"slotsyncworkaroundalways-\u540c\u6b65\u65b9\u6848\u7e3d\u662f\u555f\u7528",
+	"Enables the slot sync workaround at all times when the use key\nis held, not only when using fast right click or fast block placement.\nThis is mainly for other mods that may quickly use items when\nholding down use, such as Litematica's Easy Place mode." :"\u7576\u4f7f\u7528\u6b64\u9375\u6642\uff0c\u4e0d\u8ad6\u4f7f\u5426\u555f\u7528\n\u5feb\u901f\u5b9a\u5411\u653e\u7f6e\u6216\u5feb\u901f\u53f3\u9375\n\u7576\u4f7f\u7528\u6642\u7d66\u4e88\u5176\u4ed6\u6a21\u7d44\u5feb\u901f\u4f7f\u7528\u7269\u54c1\n\u4f8b\u5982:\u539f\u7406\u5716\u7c21\u55ae\u653e\u7f6e",
 	"snapAimIndicator":"snapAimIndicator-\u7784\u6e96\u8f14\u52a9",
 	"Whether or not to render the snap aim angle indicator":"\u662f\u5426\u6e32\u67d3\u7784\u6e96\u89d2\u9ede\u6307\u793a\u5668",
 	"snapAimIndicatorColor":"snapAimIndicator-\u7784\u6e96\u8f14\u52a9\u984f\u8272",
