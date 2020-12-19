@@ -1,6 +1,6 @@
 # chinese-traslation-resouce-pack
 Making traslate for mod<br>
-######目前有翻譯主條目的有<br>
+######目前有翻譯主條目的有
 *litematica
 *tweakeroo
 *minihud
