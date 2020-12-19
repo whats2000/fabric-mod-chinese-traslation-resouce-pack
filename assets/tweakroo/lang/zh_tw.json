@@ -28,8 +28,7 @@
     "tweakeroo.label.placement_restriction_mode.line": "\u7dda",
     "tweakeroo.label.placement_restriction_mode.plane": "\u5e73\u9762",
 
-    "tweakeroo.label.config_comment.single_player_only": "\u00a76\u6ce8\u610f: \u5728\u55ae\u4eba\u6a21\u5f0f\u4e2d\u8a72\u529f\u80fd\u53ef\u80fd\u4e0d\u5b8c\u5168\u00a7r",
-
+	"tweakeroo.label.config_comment.single_player_only": "\u00a76\u6ce8\u610f: \u5728\u975e\u55ae\u4eba\u6a21\u5f0f\u4e2d\u8a72\u529f\u80fd\u53ef\u80fd\u4e0d\u5b8c\u5168\u00a7r",
     "tweakeroo.label.snap_aim_mode.both": "\u65cb\u8f49\u8207\u7ffb\u8f49",
     "tweakeroo.label.snap_aim_mode.pitch": "\u7ffb\u8f49",
     "tweakeroo.label.snap_aim_mode.yaw": "\u65cb\u8f49",

@@ -27,7 +27,7 @@
     "tweakeroo.label.placement_restriction_mode.line": "线",
     "tweakeroo.label.placement_restriction_mode.plane": "平面",
 
-    "tweakeroo.label.config_comment.single_player_only": "§6注意: 在单人模式中该功能可能不完全§r",
+    "tweakeroo.label.config_comment.single_player_only": "§6注意: 在非单人模式中该功能可能不完全§r",
 
     "tweakeroo.label.snap_aim_mode.both": "旋转与翻转",
     "tweakeroo.label.snap_aim_mode.pitch": "翻转",
