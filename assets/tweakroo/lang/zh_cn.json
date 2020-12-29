@@ -523,7 +523,7 @@
 	"Allows the edge-most client-loaded chunks to render.\nVanilla doesn't allow rendering chunks that don't have\nall the adjacent chunks loaded, meaning that the edge-most chunk\nof the client's loaded won't render in vanilla.\nThis is also very helpful in the Free Camera mode!":"允许渲染最边缘客户端所加载的区块\n原版当中不允许渲染没有加载所有相邻的区块\n这意味着客户端加载的大部分边缘区块不能正常显示\n§6这在灵魂出窍状态下比较有用§r",
 	// 通用设置快捷键更新
 	"toggleGrabCursor":"鼠标锁定",
-	"Grabs or ungrabs the mouse cursor, depending on the current state":"抓取或取消抓取光标，当然这取决于当前状态\n（ZMDF：我愿称之为——挂机神器！）"
+	"Grabs or ungrabs the mouse cursor, depending on the current state":"抓取或取消抓取光标，当然这取决于当前状态\n（ZMDF：我愿称之为——挂机神器！）",
 	// 飞行摄像机更新
 	"freeCameraPlayerInputs":"freecameraplayerinputs-灵魂/身体控制切换",
 	"When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.":"当启用时，所有攻击及使用动作\n(例如:左键及右键)在灵魂/身体操作模式下\n可以直接控制玩家本体",
