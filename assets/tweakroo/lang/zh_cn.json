@@ -531,5 +531,8 @@
 	"Toggle the Generic -> freeCameraPlayerMovement option":"启用设置->灵魂/身体操作切换",
 	// 盔甲架更新
 	"disableArmorStandRendering":"disableArmorStandRendering禁用盔甲架渲染",
-	"Disabled all Armor Stand entity rendering":"阻止所有的盔甲架渲染"
+	"Disabled all Armor Stand entity rendering":"阻止所有的盔甲架渲染",
+	// 鞘翅胸甲更新
+	"swapElytraChestplate":"swapElytraChestplate切换鞘翅胸甲",
+	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"在胸部护甲栏中切换一个换鞘翅及一个胸甲"
 }

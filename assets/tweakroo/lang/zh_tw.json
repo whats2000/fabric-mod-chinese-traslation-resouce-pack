@@ -533,5 +533,8 @@
 	"Toggle the Generic -> freeCameraPlayerMovement option":"\u555f\u7528\u8a2d\u7f6e->\u9748\u9b42/\u8eab\u9ad4\u64cd\u4f5c\u5207\u63db",
 	// 盔甲架更新
 	"disableArmorStandRendering":"disableArmorStandRendering-\u7981\u7528\u76d4\u7532\u67b6\u6e32\u67d3",
-	"Disabled all Armor Stand entity rendering":"\u963b\u6b62\u6240\u6709\u7684\u76d4\u7532\u67b6\u6e32\u67d3"
+	"Disabled all Armor Stand entity rendering":"\u963b\u6b62\u6240\u6709\u7684\u76d4\u7532\u67b6\u6e32\u67d3",
+	// 鞘翅胸甲更新
+	"swapElytraChestplate":"swapElytraChestplate-\u5207\u63db\u9798\u7fc5\u80f8\u7532",
+	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"\u5728\u80f8\u90e8\u8b77\u7532\u6b04\u4e2d\u5207\u63db\u4e00\u500b\u63db\u9798\u7fc5\u53ca\u4e00\u500b\u80f8\u7532"
  }
