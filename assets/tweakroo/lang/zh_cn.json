@@ -525,7 +525,7 @@
 	"toggleGrabCursor":"鼠标锁定",
 	"Grabs or ungrabs the mouse cursor, depending on the current state":"抓取或取消抓取光标，当然这取决于当前状态\n（ZMDF：我愿称之为——挂机神器！）",
 	// 飞行摄像机更新
-	"freeCameraPlayerInputs":"freecameraplayerinputs-灵魂/身体控制切换",
+	"freeCameraPlayerInputs":"freecameraplayerinputs灵魂/身体控制切换",
 	"When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.":"当启用时，所有攻击及使用动作\n(例如:左键及右键)在灵魂/身体操作模式下\n可以直接控制玩家本体",
 	"Toggle the Generic -> freeCameraPlayerInputs option":"启用设置->灵魂/身体控制切换",
 	"Toggle the Generic -> freeCameraPlayerMovement option":"启用设置->灵魂/身体操作切换",
