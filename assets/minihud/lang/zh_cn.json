@@ -97,6 +97,8 @@
 	
 	"beeTooltips":"beeTooltips蜜蜂工具提示",
 	"Adds the number of contained bees to the tooltip of Bee Hive and Bee Nest items":"将包含的蜜蜂数量添加到蜂箱和蜂巢物品的工具提示中",
+	"honeyTooltips":"honeyTooltips蜂蜜工具提示",
+	"Adds the honey level to the tooltip of Bee Hive and Bee Nest items":"将包含蜂蜜级数添加到蜂箱和蜂巢物品的工具提示中",
 	"blockGridOverlayMode":"blockGridOverlayMode方块覆盖模式",
 	"The block grid render mode":"方块网格的渲染模式",
 	"blockGridOverlayRadius":"blockGridOverlayRadius方块覆盖半径",

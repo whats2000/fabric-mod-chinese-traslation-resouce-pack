@@ -97,6 +97,8 @@
     
     "beeTooltips":"beeTooltips-\u871c\u8702\u5de5\u5177\u63d0\u793a",
     "Adds the number of contained bees to the tooltip of Bee Hive and Bee Nest items":"\u5c07\u5305\u542b\u7684\u871c\u8702\u6578\u91cf\u65b0\u589e\u5230\u8702\u7bb1\u548c\u8702\u5de2\u7269\u54c1\u7684\u5de5\u5177\u63d0\u793a\u4e2d",
+    "honeyTooltips":"honeyTooltips-\u8702\u871c\u5de5\u5177\u63d0\u793a",
+    "Adds the honey level to the tooltip of Bee Hive and Bee Nest items":"\u5c07\u5305\u542b\u8702\u871c\u7d1a\u6578\u6dfb\u52a0\u5230\u8702\u7bb1\u548c\u8702\u5de2\u7269\u54c1\u7684\u5de5\u5177\u63d0\u793a\u4e2d",
     "blockGridOverlayMode":"blockGridOverlayMode-\u65b9\u584a\u8986\u84cb\u6a21\u5f0f",
     "The block grid render mode":"\u65b9\u584a\u7db2\u683c\u7684\u6e32\u67d3\u6a21\u5f0f",
     "blockGridOverlayRadius":"blockGridOverlayRadius-\u65b9\u584a\u8986\u84cb\u534a\u5f91",

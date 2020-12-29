@@ -528,5 +528,8 @@
 	"freeCameraPlayerInputs":"freecameraplayerinputs-灵魂/身体控制切换",
 	"When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.":"当启用时，所有攻击及使用动作\n(例如:左键及右键)在灵魂/身体操作模式下\n可以直接控制玩家本体",
 	"Toggle the Generic -> freeCameraPlayerInputs option":"启用设置->灵魂/身体控制切换",
-	"Toggle the Generic -> freeCameraPlayerMovement option":"启用设置->灵魂/身体操作切换"
+	"Toggle the Generic -> freeCameraPlayerMovement option":"启用设置->灵魂/身体操作切换",
+	// 盔甲架更新
+	"disableArmorStandRendering":"disableArmorStandRendering禁用盔甲架渲染",
+	"Disabled all Armor Stand entity rendering":"阻止所有的盔甲架渲染"
 }

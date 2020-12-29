@@ -530,5 +530,8 @@
 	"freeCameraPlayerInputs":"freecameraplayerinputs-\u9748\u9b42/\u8eab\u9ad4\u63a7\u5236\u5207\u63db",
 	"When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.":"\u7576\u555f\u7528\u6642\uff0c\u6240\u6709\u653b\u64ca\u53ca\u4f7f\u7528\u52d5\u4f5c\n(\u4f8b\u5982:\u5de6\u9375\u53ca\u53f3\u9375)\u5728\u9748\u9b42/\u8eab\u9ad4\u64cd\u4f5c\u6a21\u5f0f\u4e0b\n\u53ef\u4ee5\u76f4\u63a5\u63a7\u5236\u73a9\u5bb6\u672c\u9ad4",
 	"Toggle the Generic -> freeCameraPlayerInputs option":"\u555f\u7528\u8a2d\u7f6e->\u9748\u9b42/\u8eab\u9ad4\u63a7\u5236\u5207\u63db",
-	"Toggle the Generic -> freeCameraPlayerMovement option":"\u555f\u7528\u8a2d\u7f6e->\u9748\u9b42/\u8eab\u9ad4\u64cd\u4f5c\u5207\u63db"
+	"Toggle the Generic -> freeCameraPlayerMovement option":"\u555f\u7528\u8a2d\u7f6e->\u9748\u9b42/\u8eab\u9ad4\u64cd\u4f5c\u5207\u63db",
+	// 盔甲架更新
+	"disableArmorStandRendering":"disableArmorStandRendering-\u7981\u7528\u76d4\u7532\u67b6\u6e32\u67d3",
+	"Disabled all Armor Stand entity rendering":"\u963b\u6b62\u6240\u6709\u7684\u76d4\u7532\u67b6\u6e32\u67d3"
  }
