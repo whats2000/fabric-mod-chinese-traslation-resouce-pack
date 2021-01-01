@@ -158,13 +158,13 @@
 	"tweakAngelBlock":"tweakAngelBlock天使方块",
 	"Enables an \"Angel Block\" tweak, which allows\nplacing blocks in mid-air in Creative mode":"启用天使方块，这将允许在创造模式当中在半空放置方块",
 	"tweakBlockReachOverride":"tweakBlockReachOverride方块放置间距",
-	"Overrides the block reach distance with\nthe one set in Generic -> blockReachDistance":"在通用当中的“blockReachDistance放置距离“\n将覆盖默认的放置距离",
+	"Overrides the block reach distance with\nthe one set in Generic -> blockReachDistance":"在通用当中的“blockReachDistance放置距离”\n将覆盖默认的放置距离",
 	"tweakBreakingGrid":"tweakBreakingGrid破坏范围调整",
 	"When enabled, you can only break blocks in\na grid pattern, with a configurable interval.\nTo quickly adjust the interval, scroll while\nholding down the tweak toggle keybind.":"当启用时，您只能在范围内破坏方块\n想要快速调整区域大小，按住“微调”键滚动滑轮进行设置",
 	"tweakBreakingRestriction":"tweakBreakingRestriction破坏模式调整",
 	"Enables the Breaking Restriction mode\n  (Plane, Layer, Face, Column, Line, Diagonal).\nBasically only allows you to break blocks\nin those patterns, while holding down the attack key.":"启用破坏模式，模式当中只限制（平面、层、面、列、线、对角线）\n当你按住挖掘键时，仅可以采用允许的破坏模式",
 	"tweakChatBackgroundColor":"tweakChatBackgroundColor聊天背景",
-	"Overrides the default chat background color\nwith the one from Generics -> 'chatBackgroundColor'":"在通用当中的“chatBackgroundColor聊天背景颜色“\n将覆盖默认的聊天背景颜色",
+	"Overrides the default chat background color\nwith the one from Generics -> 'chatBackgroundColor'":"在通用当中的“chatBackgroundColor聊天背景颜色”\n将覆盖默认的聊天背景颜色",
 	"tweakChatPersistentText":"tweakChatPersistentText输入框草稿",
 	"Stores the text from the chat input text field\nand restores it when the chat is opened again":"暂存输入框中的文本，并在输入框再次打开时恢复它",
 	"tweakChatTimestamp":"tweakChatTimestamp聊天时间显示",
@@ -534,5 +534,12 @@
 	"Disabled all Armor Stand entity rendering":"阻止所有的盔甲架渲染",
 	// 鞘翅胸甲更新
 	"swapElytraChestplate":"swapElytraChestplate切换鞘翅胸甲",
-	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"在胸部护甲栏中切换一个换鞘翅及一个胸甲"
+	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"在胸部护甲栏中切换一个换鞘翅及一个胸甲",
+	// 物品展示框设定 以及 1.15潜行更新
+	"hangableEntityBypassInverse":"hangableEntityBypassInverse点击无视悬挂实体",
+	"If the 'Hangable Entity Targeting Bypass' tweak is enabled,\nthen this controls whether the player must be sneaking or\nnot sneaking to be able to target\nthe hangable entity (Item Frame or Painting).\n > true - Sneaking = ignore/bypass the entity\n > false - Sneaking = target the entity.":"当启用\"Hangable Entity Targeting Bypass\"时\n这将控制是否需要蹲下或\n不须蹲下来触发\n悬挂实体(物品展示框,画)\n> true - 蹲下= 无视/穿透实体\n > false - 蹲下= 触发实体",
+	"tweakHangableEntityBypass":"tweakhangableEntityBypass-啟用點擊無視懸掛實體",
+	"Allows not targeting hangable entities (Item Frames and Paintings).\nThe Generic -> \"Hangable Entity Bypass Inverse\" option\ncan be used to control whether you must be sneaking or not\nsneaking to be able to target the entity.": "关闭触发可悬挂实体(物品展示框,画)\n在通用设置-> \"Hangable Entity Bypass Inverse\" 选项\n来控制是否需要蹲下或\n不须蹲下来触发",
+	"tweakSneak_1.15.2":"tweakSneak_1.15.2启用1.15.2蹲下方式",
+	"Restores the 1.15.2 sneaking behavior":"恢复1.15.2蹲下特性"
 }
