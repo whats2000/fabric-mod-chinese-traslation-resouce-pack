@@ -41,7 +41,7 @@
 	"packetRateLimit":"packetRateLimit-数据包传递限制",
 	"The limit of sent emulated slot click packets per game tick,\nif 'rateLimitClickPackets' is enabled":"如果启用了'数据包传递限制速度',\n则限制每个游戏刻发送模拟栏位点击的数据包",
 	"rateLimitClickPackets":"rateLimitClickPackets-数据包传递限制速度",
-	"This is meant for compatibility with Spigot servers and similar,\nwhich apply rate limits to packages from the client.\nThis queues the emulated slot click packets and sends\nthem rate limited over time. The limit per game tick can be set in ' packetRateLimit'.":"这是为了与Spigot伺服器和类似兼容，\n会对客户端的程序包施加速率限制。\n这会将模拟栏位点击数据包排入队列，并限制速率发送。\n每个游戏刻的限制可以在'数据包传递限制'中设置",
+	"This is meant for compatibility with Spigot servers and similar,\nwhich apply rate limits to packages from the client.\nThis queues the emulated slot click packets and sends\nthem rate limited over time. The limit per game tick can be set in ' packetRateLimit'.":"这是为了与Spigot服务器和类似兼容，\n会对客户端的程序包施加速率限制。\n这会将模拟栏位点击数据包排入队列，并限制速率发送。\n每个游戏刻的限制可以在'数据包传递限制'中设置",
 	"craftingRecipesSaveToFile":"craftingRecipes-配方文件保存",
 	"If enabled, then the crafting features recipes are saved to a file\ninside minecraft/itemscroller/recipes_worldorservername.nbt.\nThis makes the recipes persistent across game restarts.":"如果启用，那么制作配方将保存到\nminecraft/itemscroller/recipes_worldorservername.nbt\n内的一个文件中。这使得配方在游戏重启时能保持不变",
 	"craftingRecipesSaveFileIsGlobal":"craftingRecipesSave-全局配方保存",
