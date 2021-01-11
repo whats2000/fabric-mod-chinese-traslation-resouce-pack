@@ -15,7 +15,7 @@
 
     "tweakeroo.gui.button.misc.command_block.hover.update_execution": "\u662f\u5426\u5728\u4e00\u500b\u904a\u6232\u523b\u4e2d\u591a\u6b21\u555f\u7528",
 
-    "tweakeroo.gui.title.configs": "Tweakeroo \u914d\u7f6e\u754c\u9762 \u53f0\u7d05\u79d1\u7ffb\u8b6f (TWRCS)-2020.12.19",
+    "tweakeroo.gui.title.configs": "Tweakeroo \u914d\u7f6e\u754c\u9762 \u53f0\u7d05\u79d1\u7ffb\u8b6f (TWRCS)-2021.01.11",
 
     "tweakeroo.hotkeys.category.disable_toggle_hotkeys": "\u7981\u7528\u5feb\u6377\u9375\u5207\u63db",
     "tweakeroo.hotkeys.category.generic_hotkeys": "\u901a\u7528\u5feb\u6377\u9375",
@@ -180,7 +180,7 @@
 	"\u00a76tweakEmptyShulkerBoxesStackOnGround\u00a7r":"\u00a76tweakEmpty-\u8abf\u6574\u754c\u4f0f\u76d2\u6389\u843d\u5806\u758a\u00a7r",
 	"Enables empty Shulker Boxes stacking up to 64\nwhen as items on the ground":"\u4f7f\u6389\u843d\u7684\u7a7a\u6f5b\u5f71\u7bb1\u6700\u591a\u7684\u5806\u758a\u6578\u9054\u523064\u500b",
 	"tweakExplosionReducedParticles":"tweakExplosion-\u7206\u70b8\u7c92\u5b50\u8abf\u7bc0",
-	"If enabled, then all explosion particles will use the\nEXPLOSION_NORMAL particle instead of possibly\nthe EXPLOSION_LARGE or EXPLOSION_HUGE particles":"\u555f\u7528\u540e\uff0c\u6240\u6709\u7684\u7206\u70b8\u7c92\u5b50\u5c07\u4f7f\u7528\u666e\u901a\u7684\u7206\u70b8\u7c92\u5b50\uff0c\u800c\u4e0d\u6703\u7522\u751f\u5927\u578b\u7684\u7206\u70b8\u7c92\u5b50\n\u00a76\u6253\u958b\u9019\u500b\u9078\u9805\u8b93\u4f60\u7684\u96fb\u8166\u591a\u6d3b\u5e7e\u5e74\u2014\u2014ZMDF\u3002\u00a7r",
+	"If enabled, then all explosion particles will use the\nEXPLOSION_NORMAL particle instead of possibly\nthe EXPLOSION_LARGE or EXPLOSION_HUGE particles":"\u555f\u7528\u540e\uff0c\u6240\u6709\u7684\u7206\u70b8\u7c92\u5b50\u5c07\u4f7f\u7528\u666e\u901a\u7684\u7206\u70b8\u7c92\u5b50\uff0c\u800c\u4e0d\u6703\u7522\u751f\u5927\u578b\u7684\u7206\u70b8\u7c92\u5b50",
 	"tweakF3Cursor":"tweakF3Cursor-\u63a1\u7528F3\u6e38\u6a19",
 	"Enables always rendering the F3 screen cursor":"\u555f\u7528\u540e\u87a2\u5e55\u7684\u6e38\u6a19\u70baF3\u958b\u555f\u540e\u7684\u6a23\u5f0f",
 	"tweakFakeSneaking":"tweakFakeSneaking-\u507d\u6f5b\u884c",
@@ -220,7 +220,7 @@
 	"\u00a76tweakInventoryPreview\u00a7r":"\u00a76tweakInventoryPreview-\u5eab\u5b58\u9810\u89bd\u00a7r",
 	"Enables an inventory preview while having the cursor over\na block or an entity with an inventory and holding down\nthe configured hotkey.":"\u7576\u6e38\u6a19\u505c\u7559\u5728\u5e36\u6709\u5eab\u5b58\u7684\u584a\u4e0a\u4e26\u6309\u4e0b\u914d\u7f6e\u540e\u7684\u5feb\u6377\u9375\u6642\uff0c\u555f\u52d5\u5eab\u5b58\u9810\u89bd",
 	"tweakItemUnstackingProtection":"tweakItemUnstackingProtection-\u7269\u54c1\u62c6\u7d44\u4fdd\u8b77",
-	"If enabled, then items configured in Lists -> unstackingItems\nwon't be allowed to spill out when using.\nThis is meant for example to prevent throwing buckets\ninto lava when filling them.":"\u5982\u679c\u555f\u7528\uff0c\u5728\u5217\u8868\u4e2d\u914d\u7f6e\u300cunstackingItems\u975e\u758a\u52a0\u300d\u9078\u9805\uff0c\u7269\u54c1\u5728\u5c07\u6703\u6ea2\u51fa\u6642\u555f\u7528\uff0c\n\u6bd4\u5982\uff0c\u9019\u662f\u7232\u4e86\u9632\u6b62\u5728\u7372\u53d6\u5dd6\u6f3f\u6642\uff0c\u591a\u9918\u5dd6\u6f3f\u6876\u88ab\u4e1f\u51fa\u3002",
+	"If enabled, then items configured in Lists -> unstackingItems\nwon't be allowed to spill out when using.\nThis is meant for example to prevent throwing buckets\ninto lava when filling them.":"\u5982\u679c\u555f\u7528\uff0c\u5728\u5217\u8868\u4e2d\u914d\u7f6e\u300cunstackingItems\u975e\u758a\u52a0\u300d\u9078\u9805\uff0c\u7269\u54c1\u5728\u5c07\u6703\u6ea2\u51fa\u6642\u555f\u7528\uff0c\n\u6bd4\u5982\uff0c\u9019\u662f\u7232\u4e86\u9632\u6b62\u5728\u7372\u53d6\u5ca9\u6f3f\u6642\uff0c\u591a\u9918\u5ca9\u6f3f\u6876\u88ab\u4e1f\u51fa\u3002",
 	"tweakLavaVisibility":"tweakLavaVisibility-\u5ca9\u6f3f\u53ef\u8996",
 	"If enabled and the player has a Respiration helmet and/or\nWather Breathing active, the lava fog is greatly reduced.":"\u5982\u679c\u555f\u7528\u4e86\uff0c\u73a9\u5bb6\u5c07\u7372\u5f97\u5ca9\u6f3f\u4e2d\u7684\u53ef\u8996\u6548\u679c\uff0c\n\u7194\u5ca9\u52d5\u756b\u5c07\u5927\u5927\u6e1b\u5c11",
 	"tweakMapPreview":"tweakMapPreview-\u5730\u5716\u9810\u89bd",
@@ -511,7 +511,7 @@
 	"The number of game ticks between starting to hold down use (right click)":"\u8a72\u529f\u80fd\u63a7\u5236\u73a9\u5bb6\u6bcf\u9694\u591a\u5c11\u523b\u6301\u7e8c\u4f7f\u7528\u53f3\u9375",
 	// 列表更新
 	"creativeExtraItems":"creativeExtra-\u5275\u9020\u984d\u5916\u7269\u54c1\u6e05\u55ae",
-	"Extra items that should be appended to the creative inventory.\nCurrently these will appear in the Transportation category.\nIn the future the group per added item will be customizable.":"\u60f3\u8981\u9644\u52a0\u5230\u5275\u9020\u6a21\u5f0f\u6e05\u55ae\u7576\u4e2d\u7684\u7269\u54c1\n\u9019\u4e9b\u7269\u54c1\u5c07\u6703\u51fa\u73fe\u5728\u904b\u8f38\u985e\u5225\u7576\u4e2d\n\uff08\u9019\u5927\u591a\u6578\u90fd\u662f\u547d\u4ee4\u65b9\u584a\u4ec0\u9ebc\u7684\n\u653e\u5728\u7d05\u77f3\u91cc\u4e0d\u597d\u55ce\uff1f\u2014\u2014\u4f86\u8457ZMDF\u7684\u5410\u69fd\uff09\n\u5728\u672a\u4f86\u7684\u7248\u672c\u4e2d\u6bcf\u500b\u65b0\u589e\u9805\u7684\u7d44\u90fd\u662f\u53ef\u81ea\u5b9a\u7fa9\u7684\uff08\u55ef\uff0c\u9019\u662fmasa\u8aaa\u7684\uff09",
+	"Extra items that should be appended to the creative inventory.\nCurrently these will appear in the Transportation category.\nIn the future the group per added item will be customizable.":"\u60f3\u8981\u9644\u52a0\u5230\u5275\u9020\u6a21\u5f0f\u6e05\u55ae\u7576\u4e2d\u7684\u7269\u54c1\n\u9019\u4e9b\u7269\u54c1\u5c07\u6703\u51fa\u73fe\u5728\u904b\u8f38\u985e\u5225\u7576\u4e2d\n\u5728\u672a\u4f86\u7684\u7248\u672c\u4e2d\u6bcf\u500b\u65b0\u589e\u9805\u7684\u7d44\u90fd\u662f\u53ef\u81ea\u5b9a\u7fa9\u7684\uff08\u55ef\uff0c\u9019\u662fmasa\u8aaa\u7684\uff09",
 	// 功能開啟設定更新
 	"tweakCreativeExtraItems":"tweakCreativeExtra-\u5275\u9020\u984d\u5916\u7269\u54c1",
 	"Adds custom items to item groups.\nSee Lists -> 'creativeExtraItems' to control which items are added to the groups.\nNote: Currently these will be added to the Transportation group\n(because it has the elast items), but in the future\nthe groups will be configurable per added item":"\u5c07\u81ea\u5b9a\u7fa9\u7269\u54c1\u65b0\u589e\u5230\u7269\u54c1\u5eab\n\u6aa2\u8996\u5217\u8868\u7576\u4e2d\u7684\uff08creativeExtra\u5275\u9020\u984d\u5916\u7269\u54c1\u6e05\u55ae\uff09\n\u4f86\u63a7\u5236\u54ea\u4e9b\u7269\u54c1\u5c07\u88ab\u65b0\u589e\u9032\u5165\u7269\u54c1\u5eab\n\u6ce8\u610f\uff1a\u76ee\u524d\u9019\u4e9b\u7269\u54c1\u50c5\u50c5\u6703\u88ab\u65b0\u589e\u81f3\u904b\u8f38\u6b04\n\u4f46\u662f\u5728\u5c07\u4f86\u9019\u4e9b\u7269\u54c1\u5c07\u53ef\u4ee5\u88ab\u4efb\u610f\u65b0\u589e\u81f3\u4e0d\u540c\u5206\u985e\u3002",
@@ -535,13 +535,13 @@
 	"disableArmorStandRendering":"disableArmorStandRendering-\u7981\u7528\u76d4\u7532\u67b6\u6e32\u67d3",
 	"Disabled all Armor Stand entity rendering":"\u963b\u6b62\u6240\u6709\u7684\u76d4\u7532\u67b6\u6e32\u67d3",
 	// 鞘翅胸甲更新
-	"swapElytraChestplate":"swapElytraChestplate-\u5207\u63db\u9798\u7fc5\u80f8\u7532",
+	"swapElytraChestplate":"swapElytraChestp-\u5207\u63db\u9798\u7fc5\u80f8\u7532",
 	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"\u5728\u80f8\u90e8\u8b77\u7532\u6b04\u4e2d\u5207\u63db\u4e00\u500b\u63db\u9798\u7fc5\u53ca\u4e00\u500b\u80f8\u7532",
 	// 物品展示框設定 以及 1.15潛行更新
-	"hangableEntityBypassInverse":"hangableEntityBypassInverse-\u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4",
-	"If the \"Hangable Entity Targeting Bypass\" tweak is enabled,\nthen this controls whether the player must be sneaking or\nnot sneaking to be able to target\nthe hangable entity (Item Frame or Painting).\n > true - Sneaking = ignore/bypass the entity\n > false - Sneaking = target the entity.":"\u7576\u555f\u7528\"Hangable Entity Targeting Bypass\"\u6642\n\u9019\u5c07\u63a7\u5236\u662f\u5426\u9700\u8981\u8e72\u4e0b\u6216\n\u4e0d\u9808\u8e72\u4e0b\u4f86\u89f8\u767c\n\u61f8\u639b\u5be6\u9ad4(\u7269\u54c1\u5c55\u793a\u6846,\u756b)\n> true - \u8e72\u4e0b = \u7121\u8996/\u7a7f\u900f \u5be6\u9ad4\n > false - \u8e72\u4e0b = \u89f8\u767c\u5be6\u9ad4",
-	"tweakHangableEntityBypass":"tweakhangableEntityBypass-\u555f\u7528\u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4",
-	"Allows not targeting hangable entities (Item Frames and Paintings).\nThe Generic -> \"Hangable Entity Bypass Inverse\" option\ncan be used to control whether you must be sneaking or not\nsneaking to be able to target the entity.":"\u95dc\u9589\u89f8\u767c\u53ef\u61f8\u639b\u5be6\u9ad4(\u7269\u54c1\u5c55\u793a\u6846,\u756b)\n\u5728\u901a\u7528\u8a2d\u7f6e-> \"Hangable Entity Bypass Inverse\" \u9078\u9805\n\u4f86\u63a7\u5236\u662f\u5426\u9700\u8981\u8e72\u4e0b\u6216\n\u4e0d\u9808\u8e72\u4e0b\u4f86\u89f8\u767c",
+	"hangableEntityBypassInverse":"hangableEntityInv-\u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4",
+	"If the hangableEntityTargetingBypass tweak is enabled,\nthen this controls whether the player must be sneaking or\nnot sneaking to be able to target\nthe hangable entity (Item Frame or Painting).\n > true - Sneaking = ignore/bypass the entity\n > false - Sneaking = target the entity.":"\u7576\u555f\u7528\u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4\u6642\n\u9019\u5c07\u63a7\u5236\u662f\u5426\u9700\u8981\u8e72\u4e0b\u6216\n\u4e0d\u9808\u8e72\u4e0b\u4f86\u89f8\u767c\n\u61f8\u639b\u5be6\u9ad4(\u7269\u54c1\u5c55\u793a\u6846,\u756b)\n> true - \u8e72\u4e0b = \u7121\u8996/\u7a7f\u900f \u5be6\u9ad4\n > false - \u8e72\u4e0b = \u89f8\u767c\u5be6\u9ad4",
+	"tweakHangableEntityBypass":"tweakhangableEntity-\u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4",
+	"Allows not targeting hangable entities (Item Frames and Paintings).\nThe Generic -> hangableEntityBypassInverse option\ncan be used to control whether you must be sneaking or not\nsneaking to be able to target the entity.":"\u95dc\u9589\u89f8\u767c\u53ef\u61f8\u639b\u5be6\u9ad4(\u7269\u54c1\u5c55\u793a\u6846,\u756b)\n\u5728\u901a\u7528\u8a2d\u7f6e-> \u9ede\u64ca\u7121\u8996\u61f8\u639b\u5be6\u9ad4\u9078\u9805\n\u4f86\u63a7\u5236\u662f\u5426\u9700\u8981\u8e72\u4e0b\u6216\n\u4e0d\u9808\u8e72\u4e0b\u4f86\u89f8\u767c",
 	"tweakSneak_1.15.2":"tweakSneak_1.15.2-\u555f\u75281.15.2\u8e72\u4e0b\u65b9\u5f0f",
 	"Restores the 1.15.2 sneaking behavior":"\u6062\u5fa91.15.2\u8e72\u4e0b\u7279\u6027"
 }
