@@ -1,4 +1,4 @@
-# chinese-traslation-resouce-pack
+# masa-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
 ###### 目前有翻譯有
 * litematica
@@ -10,7 +10,7 @@ Making traslate for mod<br>
 註:繁體請全部用unicode<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563
 
-# chinese-traslation-resouce-pack
+#  masa-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
 ###### 目前有翻译有
 * litematica
