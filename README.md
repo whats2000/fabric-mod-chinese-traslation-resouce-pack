@@ -8,7 +8,7 @@ Making traslate for mod<br>
 * itemscroller<br>
 
 註:繁體請全部用unicode<br>
-簡體翻譯來源 : https://www.bilibili.com/read/cv6583563
+簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>
 紅石論壇discored : https://discord.gg/q2TsYsD
 
 #  masa-mod-chinese-traslation-resouce-pack
