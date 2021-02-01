@@ -1,4 +1,4 @@
-# masa-mod-chinese-traslation-resouce-pack
+# fabric-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
 ###### 目前有翻譯有
 * litematica
@@ -11,7 +11,7 @@ Making traslate for mod<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>
 紅石論壇discored : https://discord.gg/q2TsYsD
 
-#  masa-mod-chinese-traslation-resouce-pack
+#  fabric-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
 ###### 目前有翻译有
 * litematica
