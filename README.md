@@ -9,7 +9,6 @@ Making traslate for mod<br>
 
 註:繁體請全部用unicode<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>
-紅石論壇discored : https://discord.gg/q2TsYsD
 #### forge mod請去 https://github.com/whats2000/mod-pack-traditional-chinese-traslation
 
 #  fabric-mod-chinese-traslation-resouce-pack
