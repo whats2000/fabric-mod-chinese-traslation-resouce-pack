@@ -30,14 +30,15 @@
 	"Enables dropping all matching items at once by holding\nshift while clicking to drop a stack":"允许通过按住shift键同时丢出一组物品\n从而一次性丢出所有匹配的物品",
 	"enableShiftPlaceItems":"enableShift-启用shift移动",
 	"Enables moving all matching stacks at once by holding\nshift while placing items to an empty slot":"在将物品放置到一个空槽时，通过按住shift，\n可以一次移动所有匹配的物品",
-	"enableVillagerTradeList":"enableVillager-启用村民交易列表",
-	"Render a 1.14-style trade list in villager GUIs":"在村民gui中呈现一个1.14风格的交易列表\n（这不是1.16吗？？？？？？）",
+	"enableVillagerTradeFeatures":"enableVillager-启用村民交易特性",
+	"Enable trade favoriting and quick trade features for villagers.\nNote: The Shift + scrolling over the output slot is a separate feature\nand not affected by this option.\nThis option enables middle clicking to mark favorite trades,\nand right clicking on the trade list to fully trade that one trade.":"启用最爱村民交易及快速交易特性\n笔记: shift+滚轮是一项单独的功能，\n将不受此功能限制，\n并且在右键交易列表会全部交易当前所选交易",
 	
 	"carpetCtrlQCraftingEnabledOnServer":"carpetCtrlQCrafting-地毯端CtrlQ启用",
 	"Set to true if the server is running the Carpet mod,\nand has the ctrlQCrafting option enabled.\nThis just changes which method Item Scroller uses\nfor the Drop key + Shift + Right click crafting.":"如果服务器正在运行地毯端则设置为开启，\n这将改变物品滚轮整组丢弃的使用方式\n变为丢弃+Shift+右击丢弃整组",
 	"clientCraftingFixOn1.12":"clientCrafting-1.12客户端修复",
 	"Enable updating the crafting recipe output directly on the client side.\nThis fixes the quick/mass crafting and right-click-to-craft-a-stack\nfeatures othrwise being broken in 1.12.":"在客户端直接更新制作配方输出\n这修正了在1.12中快速/批量制造和右键点击制造所产生的不可使用的问题。",
 	"craftingRenderRecipeItems":"craftingRenderRecipeItems-配方显示",
+	"If enabled, then the recipe items are also rendered\nin the crafting recipe view.":"如果启用，那么配方物品也会呈现在制作配方检视中",
 	"packetRateLimit":"packetRateLimit-数据包传递限制",
 	"The limit of sent emulated slot click packets per game tick,\nif 'rateLimitClickPackets' is enabled":"如果启用了'数据包传递限制速度',\n则限制每个游戏刻发送模拟栏位点击的数据包",
 	"rateLimitClickPackets":"rateLimitClickPackets-数据包传递限制速度",
@@ -52,8 +53,10 @@
 	"Reverse the scrolling direction for full stacks mode.":"反转滚动方向为单组物品移动模式",
 	"useSlotPositionAwareScrollDirection":"useSlotPositionAware-栏位滚动方向",
 	"When enabled, the item movement direction depends\non the slots' y-position on screen. Might be derpy with more\ncomplex inventories, use with caution!":"当启用时，物品的移动方向取决于屏幕上栏位的y轴位置。使用谨慎!",
-	"villagerTradeListRememberPage":"villagerTradeList-交易页面记忆",
-	"Remember and restore the last looked at page/trade when re-opening the GUI":"当重新打开GUI时，记住并恢复最后看到的页面/交易",
+	"villagerTradeUseGlobalFavorites":"villagerTradeUseGlobal-全域性最爱的交易",
+	"Whether or not global (per-item-type) villager trade\nfavorites should be used.":"是否启用全域性(依照物品种类)最爱的交易",
+	"villagerTradeListRememberScrollPosition":"villagerTradeList-交易页面滚动条记忆",
+	"Remember and restore the last scroll position in the\ntrade list when re-opening the GUI":"当重新打开GUI时，记住并恢复交易页面上次的滚动位置",
 	
 	"openConfigGui":"openConfigGui-打开配置界面",
 	"Open the in-game config GUI":"打开游戏内配置界面",
@@ -117,6 +120,8 @@
 	"Modifier key to move all matching items to the other\ninventory when scrolling over a stack":"当在堆栈上滚动时，修饰键将所有匹配的项目移动到另一个库存\n（这个快捷键并没有实际功能，类似前缀）",
 	"modifierMoveStack":"modifierMove-移动一份",
 	"Modifier key to move the entire stack to the other\ninventory when scrolling over it":"当在堆栈上滚动时，修饰键将整个堆栈移动到另一个库存\n（这个快捷键并没有实际功能，类似前缀）",
+	"modifierToggleVillagerGlobalFavorite":"ModifierToggle-开启全域性最爱的交易",
+	"Modifier key to hold while middle clicking a trade,\nto toggle the global favorite state for that trade.\nGlobal favorites are used for villagers that don't have any specific favorites set.":"当用鼠标中键在交易上点击时，\n将开启全域性最爱的交易，\n全域最爱交易将套用在没有个别最爱的交易村民上",
 
-    "itemscroller.gui.title.configs": "物品滚轮配置汉化——醉梦巅峰（ZMDF）-2021.01.11"
+    "itemscroller.gui.title.configs": "物品滚轮配置汉化——醉梦巅峰（ZMDF）-2021.06.19"
 }
