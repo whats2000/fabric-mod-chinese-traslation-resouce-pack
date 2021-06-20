@@ -571,4 +571,7 @@
 	"Disables rendering of Scaffolding Blocks":"進用鷹架方塊的渲染",
 	"disableWorldViewBob":"禁用世界觀察BOb",
 	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手"
+        //補貨
+	"handRestockPreThreshold":"handRestockPreThreshold手中方塊補貨門檻",
+	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻"
 }
