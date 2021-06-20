@@ -551,4 +551,24 @@
 	"Allows not targeting hangable entities (Item Frames and Paintings).\nThe Generic -> hangableEntityBypassInverse option\ncan be used to control whether you must be sneaking or not\nsneaking to be able to target the entity.":"關閉觸發可懸掛實體(物品展示框,畫)\n在通用設置-> 點擊無視懸掛實體選項\n來控制是否需要蹲下或\n不須蹲下來觸發",
 	"tweakSneak_1.15.2":"tweakSneak_1.15.2-啟用1.15.2蹲下方式",
 	"Restores the 1.15.2 sneaking behavior":"恢復1.15.2蹲下特性"
+        //20210620 1.17更新測試
+	"sculkSensorPulseLength":"潛聲傳感器脈衝長度",
+	"The pulse length for Sculk Sensors, if the 'tweakSculkPulseLength' tweak is enabled.":"如果啟用了“調整潛聲傳感器脈衝長度”，則可以調整。",
+	"macHorizontalScroll":"macHorizontalScroll水平滾動 ",
+	"If you are on Mac/OSX, this applies the same fix/change\nas the hscroll mod, while not breaking all the scroll handling\nin malilib-based mods.":"如果您使用的是 Mac/OSX，這將應用與滾動模式相同的修復/更改\n，同時不會抵抗所有滾動處理\n 基於 malilib 的模塊。",
+	"§6tweakSculkPulseLength§r":"§6調整潛聲傳感器脈衝長度§r",
+        "Allows modifying the Sculk Sensor pulse length. Set the pulse length in Generic -> sculkSensorPulseLength":"允許修改 潛聲傳感器脈衝長度。 在 通用設定 -> 潛聲傳感器脈衝長度 中設置脈衝長度",
+        //禁用類
+	"disableAxeStripping":"禁用斧削皮",
+	"Disables stripping logs with an axe":"將斧波削皮的功能關閉",
+	"disableChunkRendering":"禁用區塊渲染",
+	"Disables chunk (re-)rendering. This will make any block changes non-visible\\nuntil this is disabled again and F3 + A is used to refresh the world rendering.\\nThis might help with low fps in places with lots of block changes in some situations,\\nwhere the block changes are not really relevant at that time.":"禁用區塊(重新)渲染。這將使任何區塊更改為不可見。\n直到再次禁用此功能並用F3+A重新渲染世界。\n這可能有助於在有很多地方的低fps在某些情況下改善，\n與當時的區塊更改並不真正相關",
+	"disableClientLightUpdates":"禁用客戶端光照更新",
+	"Disables all client-side light updates":"關閉客戶端所有的光照更新",
+	"disableNauseaEffect":"禁用噁心效果",
+	"Disables the nausea visual effects":"禁用噁心的視覺效果",
+	"disableRenderingScaffolding":"禁用渲染鷹架",
+	"Disables rendering of Scaffolding Blocks":"進用鷹架方塊的渲染",
+	"disableWorldViewBob":"禁用世界觀察BOb",
+	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手"
 }
