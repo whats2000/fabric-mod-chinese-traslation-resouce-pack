@@ -550,7 +550,7 @@
 	"tweakHangableEntityBypass":"tweakhangableEntity-點擊無視懸掛實體",
 	"Allows not targeting hangable entities (Item Frames and Paintings).\nThe Generic -> hangableEntityBypassInverse option\ncan be used to control whether you must be sneaking or not\nsneaking to be able to target the entity.":"關閉觸發可懸掛實體(物品展示框,畫)\n在通用設置-> 點擊無視懸掛實體選項\n來控制是否需要蹲下或\n不須蹲下來觸發",
 	"tweakSneak_1.15.2":"tweakSneak_1.15.2-啟用1.15.2蹲下方式",
-	"Restores the 1.15.2 sneaking behavior":"恢復1.15.2蹲下特性"
+	"Restores the 1.15.2 sneaking behavior":"恢復1.15.2蹲下特性",
         //20210620 1.17更新測試
 	"sculkSensorPulseLength":"潛聲傳感器脈衝長度",
 	"The pulse length for Sculk Sensors, if the 'tweakSculkPulseLength' tweak is enabled.":"如果啟用了“調整潛聲傳感器脈衝長度”，則可以調整。",
@@ -570,7 +570,7 @@
 	"disableRenderingScaffolding":"禁用渲染鷹架",
 	"Disables rendering of Scaffolding Blocks":"進用鷹架方塊的渲染",
 	"disableWorldViewBob":"禁用世界觀察BOb",
-	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手"
+	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手",
         //補貨
 	"handRestockPreThreshold":"handRestockPreThreshold手中方塊補貨門檻",
 	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻"
