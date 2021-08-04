@@ -1,0 +1,20 @@
+{
+  "key.lightoverlay.category": "亮度顯示",
+  "key.lightoverlay.enable_overlay": "啟用亮度顯示",
+  "description.lightoverlay.caching": "如果你電腦運行在一個土豆上，建議啟用緩存",
+  "config.lightoverlay.general": "一般",
+  "config.lightoverlay.reach": "到達:",
+  "config.lightoverlay.caching": "缓存:",
+  "config.lightoverlay.crossLevel": "亮度等級:",
+  "config.lightoverlay.secondaryLevel": "二級亮度:",
+  "config.lightoverlay.showNumber": "顯示數字而不是:",
+  "config.lightoverlay.smoothLines": "流暢的線條:",
+  "config.lightoverlay.underwater": "在水底顯示",
+  "config.lightoverlay.lineWidth": "線條寬度:",
+  "config.lightoverlay.yellowColor": "黃色顏色:",
+  "config.lightoverlay.secondaryColor": "第二顏色:",
+  "config.lightoverlay.redColor": "紅色顏色:",
+  "config.lightoverlay.invalidColor": "無效顏色",
+  "config.lightoverlay.mushroom": "在蘑菇群系中顯示(蘑菇群系不生怪):",
+  "config.lightoverlay.useListWhileCaching": "緩存時啟用glList:"
+}
