@@ -1,0 +1,13 @@
+{
+    "key.entity-outliner.selector": "打開實體選擇菜單",
+    "key.entity-outliner.outline": "啟動實體高亮",
+    "title.entity-outliner.selector": "實體選擇器",
+    "title.entity-outliner.title": "實體高亮",
+    "button.entity-outliner.deselect": "取消選取全部",
+    "button.entity-outliner.done": "完成",
+    "button.entity-outliner.categories": "分類",
+    "button.entity-outliner.no-categories": "取消分類",
+    "button.entity-outliner.on": "開啟",
+    "button.entity-outliner.off": "關閉",
+    "gui.entity-outliner.no_results": "沒有結果"
+}
