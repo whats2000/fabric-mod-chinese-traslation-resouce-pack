@@ -602,5 +602,15 @@
 	"selectiveBlocksWhitelist":"白名單中的方塊",
 	"The block positions you want to whitelist":"輸入您要，\n在白名單中的方塊位置!",
 	"selectiveBlocksBlacklist":"黑名單中的方塊",
-	"The block positions you want to blacklist":"輸入您要，\n在黑名單中的方塊位置!"
+	"The block positions you want to blacklist":"輸入您要，\n在黑名單中的方塊位置!",
+	//禁用類開啟設定
+	"disableContainerScanOutlines":"禁用容器掃描輪廓",
+	"Disables rendering container scan outlines":"禁用渲染容器掃描輪廓。",
+	"disableNametags":"禁用名字標註",
+	"Disables rendering name tags":"禁用渲染名字標註。",
+	"disableBossBar":"disableBossBar關閉渲染怪物條",
+	"Removes the boss bars":"刪除怪物條",
+	"Disables all Armor Stand entity rendering":"禁止所有盔甲架實體渲染",
+	"disableClientBlockEvents":"禁用客戶端方塊活動",
+	"Disables block event rendering (eg pistons animations)":"禁用客戶端渲染方塊活動\n(例如:活塞動畫)"
 }
