@@ -574,4 +574,23 @@
         "//coment12":"捕貨",
 	"handRestockPreThreshold":"handRestockPreThreshold手中方塊補貨門檻",
 	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻"
+	"//coment12":"20210925TweakFork嘗試翻譯",
+	"dayCycleOverrideTime":"dayCycleOverrideTime指定遊戲刻",
+	"The day time to use when overriding the daylight cycle time":"將遊戲刻指定為設置的遊戲刻",
+	"weatherOverrideOption":"weatherOverrideOption指定天氣",
+	"The weather to use when overriding the client weather":"將天氣指定為設置的天氣",
+	"scaffoldPlaceDistance":"scaffoldPlaceDistance放置鷹架距離",
+	"Scaffold place max distance":"調整鷹架放置最長的距離",
+	"scaffoldPlaceVanilla":"scaffoldPlaceVanilla原版鷹架放置",
+	"When enabled, extend direction is only set by player direction":"如果啟用\n將放置鷹架方向調整為玩家放置方向",
+	"containerScanMinItems":"containerScanMinItems掃描容器最小項目",
+	"Minimum items a container needs to have to be displayed":"顯示容器所需最少的物品",
+	"containerScanMinTypes":"containerScanMinTypes掃描容器類型",
+	"Minimum item types a container needs to have to be displayed":"顯示容器所需類型最少的物品",
+	"afkTimeout":"afkTimeout斷線掛機",
+	"Number of ticks for AFK timeout":"掛機指定多少刻後,\n執行斷線",
+	"afkAction":"afkAction掛機動作",
+	"The action to perform on AFK timeout. /disconnect is default.":"掛機逾時，\n/disconnect為默認指令",
+	"toolSwitchableSlots":"toolSwitchableSlots工具可切換的位置",
+	"The slots that the Tool Switch tweak is allowed to put tools to.\nNote that Tool Switch can also switch to other slots in the hotbar,\nif they already have the preferred tool, but it will only\nswap new tools to these slots":"工具開關調整的插槽允許放置工具。\n請注意，工具開關也可以切換到快捷欄中的其他插槽，\n如果他們已經擁有首選工具，但它只會\n將新工具交換到這些插槽中"
 }
