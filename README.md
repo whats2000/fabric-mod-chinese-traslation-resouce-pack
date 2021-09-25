@@ -15,7 +15,7 @@ Making traslate for mod<br>
 Making traslate for mod<br>
 ###### 目前有翻译有
 * litematica
-* tweakeroo
+* tweakeroo + tweakfork
 * minihud
 * malilib
 * itemscroller<br>
