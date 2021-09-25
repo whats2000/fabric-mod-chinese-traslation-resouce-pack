@@ -593,4 +593,14 @@
 	"The action to perform on AFK timeout. /disconnect is default.":"掛機逾時，\n/disconnect為默認指令",
 	"toolSwitchableSlots":"toolSwitchableSlots工具可切換的位置",
 	"The slots that the Tool Switch tweak is allowed to put tools to.\nNote that Tool Switch can also switch to other slots in the hotbar,\nif they already have the preferred tool, but it will only\nswap new tools to these slots":"工具開關調整的插槽允許放置工具。\n請注意，工具開關也可以切換到快捷欄中的其他插槽，\n如果他們已經擁有首選工具，但它只會\n將新工具交換到這些插槽中"
+	//修復類
+	"chestMirrorFix":"chestMirrorFix修復箱子鏡像",
+	"Fixes chest mirroring (eg, with litematica)":"修復投影模組中,\n鏡像的箱子",
+	//列表區
+	"selectiveBlocksListType":"選擇方塊顯示的名單",
+	"The list type for selective blocks tweak":"選擇你想顯示的方塊列表名單!",
+	"selectiveBlocksWhitelist":"白名單中的方塊",
+	"The block positions you want to whitelist":"輸入您要，\n在白名單中的方塊位置!",
+	"selectiveBlocksBlacklist":"黑名單中的方塊",
+	"The block positions you want to blacklist":"輸入您要，\n在黑名單中的方塊位置!"
 }
