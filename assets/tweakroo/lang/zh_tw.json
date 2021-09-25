@@ -573,7 +573,7 @@
 	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手",
         "//coment12":"捕貨",
 	"handRestockPreThreshold":"handRestockPreThreshold手中方塊補貨門檻",
-	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻"
+	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻",
 	"//coment12":"20210925TweakFork嘗試翻譯",
 	"dayCycleOverrideTime":"dayCycleOverrideTime指定遊戲刻",
 	"The day time to use when overriding the daylight cycle time":"將遊戲刻指定為設置的遊戲刻",
