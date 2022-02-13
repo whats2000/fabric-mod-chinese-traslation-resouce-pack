@@ -1,11 +1,16 @@
 # fabric-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
-###### 目前有翻譯有
+###### 目前zh_tw有翻譯有
+* betterf3
+* breakprogress
+* entityyoutliner
+* foodui
+* itemscroller
+* lightoverlay
 * litematica
-* tweakeroo + tweakfork
-* minihud
 * malilib
-* itemscroller<br>
+* minihud
+* tweakeroo + tweakfork<br>
 
 註:請全部用UTF8<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>
@@ -13,12 +18,13 @@ Making traslate for mod<br>
 
 #  fabric-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
-###### 目前有翻译有
+###### 目前zh_cn有翻译有
+* foodui
+* itemscroller
 * litematica
-* tweakeroo + tweakfork
-* minihud
 * malilib
-* itemscroller<br>
+* minihud
+* tweakeroo + tweakfork<br>
 
 注:请全部用UTF8<br>
 简体翻译来源 : https://www.bilibili.com/read/cv6583563

@@ -1,21 +1,18 @@
 {
-    
-    "tweakeroo.gui.button.config_gui.disable_hotkeys": "禁用類快捷鍵設定",
-    "tweakeroo.gui.button.config_gui.disable_toggle": "禁用類開啟設定",
-    "tweakeroo.gui.button.config_gui.fixes": "修復",
-    "tweakeroo.gui.button.config_gui.generic": "通用設定",
-    "tweakeroo.gui.button.config_gui.generic_hotkeys": "通用設定快捷鍵",
-    "tweakeroo.gui.button.config_gui.lists": "列表",
-    "tweakeroo.gui.button.config_gui.placement": "方塊放置模式",
-    "tweakeroo.gui.button.config_gui.tweak_hotkeys": "快捷鍵設定",
-    "tweakeroo.gui.button.config_gui.tweak_toggles": "功能開啟設定",
+	//檔案位置在Gui資料夾
+ 	"tweakeroo.gui.button.config_gui.generic": "通用類",
+    "tweakeroo.gui.button.config_gui.fixes": "修復類",
+    "tweakeroo.gui.button.config_gui.lists": "細項列表",
+    "tweakeroo.gui.button.config_gui.tweaks": "Tweaks",
+    "tweakeroo.gui.button.config_gui.generic_hotkeys": "通用類快捷鍵",
+    "tweakeroo.gui.button.config_gui.disables":"優化類",
 
     "tweakeroo.gui.button.misc.command_block.set_name": "命名",
     "tweakeroo.gui.button.misc.command_block.update_execution": "循環: %s",
 
     "tweakeroo.gui.button.misc.command_block.hover.update_execution": "是否在一個遊戲刻中多次啟用",
 
-    "tweakeroo.gui.title.configs": "Tweakeroo 配置界面 台紅科翻譯 (TWRCS)-2021.06.19",
+    "tweakeroo.gui.title.configs": "Tweakeroo 設定界面 翻譯-繁體",
 
     "tweakeroo.hotkeys.category.disable_toggle_hotkeys": "禁用快捷鍵切換",
     "tweakeroo.hotkeys.category.generic_hotkeys": "通用快捷鍵",
@@ -69,7 +66,7 @@
     "tweakeroo.message.toggled_zoom_on": "調整縮放視角 %s, 視角範圍為: %s",
     "tweakeroo.message.value.off": "關閉",
     "tweakeroo.message.value.on": "開啟",
-	
+	//
 	"accurateBlockPlacementInto":"accurate-精準放置",
 	"The key to activate the accurate block placement\nmode/overlay for placing the block facing\ninto the clicked block face":"啟用精確放置的快捷鍵，使用後方塊將放置於點選的塊面上",
 	"accurateBlockPlacementReverse":"accurate-精準放置（反向）",
@@ -142,7 +139,7 @@
 	"Switches to the effective tool for the targeted block":"切換到採集方塊的合適工具",
 	"zoomActivate":"zoomActivate-變焦啟用",
 	"Zoom activation hotkey":"縮放啟用熱鍵",
-	
+	//
 	"carpetAccuratePlacementProtocol":"carpetAccurate-地毯端精確放置協議",
 	"If enabled, then the Flexible Block Placement and the\nAccurate Block Placement use the protocol implemented\nin the recent carpet mod versions":"如果啟用，那麼靈活放置於精確放置將於地毯端實現",
 	"fastPlacementRememberOrientation":"fastPlacement-快速定向放置",
@@ -285,7 +282,7 @@
 	"Mirrors the targeted y-position within the block bounds.\nThis is basically for placing slabs or stairs\nin the opposite top/bottom state from normal,\nif you have to place them against another slab for example.":"放置映象區域範圍內的目標y位置。\n這主要是爲了把樓板或樓梯放在與正常相反的上下位置，\n例如你必須把它們放在另一個方塊上。",
 	"tweakZoom":"tweakZoom-調整縮放",
 	"Enables using the zoom hotkey to, well, zoom in":"可以使用縮放熱鍵來縮放",
-	
+	//
 	"fastPlacementItemListType":"fastPlacement-快速放置列表",
 	"The item restriction type for the Fast Block Placement tweak":"對快速放置的方塊型別進行設定",
 	"fastPlacementItemBlackList":"fastPlacement-快速放置黑名單",
@@ -316,7 +313,7 @@
 	"The slots the repair mode should use\nValid values: mainhand, offhand, head, chest, legs, feet":"修復模式應用的有效物品:主手，副手，頭盔，胸甲，護腿，鞋子",
 	"unstackingItems":"unstacking-物品拆組保護列表",
 	"The items that should be considered for the\n'tweakItemUnstackingProtection' tweak":"物品拆組保護所包含的保護物品",
-	
+	//
 	"clientChunkEntityDupeFix":"client-客戶端區塊實體假死修復",
 	"Fixes the client world chunks essentially duping their\nentities when chunk packets are received":"修復了客戶端區塊載入時包含過多實體假死的情況",
 	"elytraFix":"elytraFix-鞘翅修復",
@@ -327,7 +324,7 @@
 	"Fixes Ravagers breaking blocks on the client side,\nwhich causes annoying ghost blocks/block desyncs":"修復了客戶端在掠奪中斷後產生的幽靈方塊等奇怪的東西",
 	"tileEntityUnloadOptimization":"tileEntity-方塊實體卸載優化",
 	"Optimizes the removal of unloading TileEntities from the World lists.\nThis can greatly improve performance if there are lots of\nTileEntities loaded and/or unloading at once.":"優化了從世界列表中刪除並卸載實體方塊的功能。\n如果同時載入或卸載許多實體方塊，這將極大地提高效能",
-	
+	//
 	"afterClickerClickCount":"afterClicker-連點器次數",
 	"The number of right clicks to do per placed block when\ntweakAfterClicker is enabled":"當連點器啟動后，每個放置的方塊要進行右擊的次數",
 	"blockReachDistance":"blockReach-方塊放置距離",
@@ -412,7 +409,7 @@
 	"Whether or not holding shift is required for the Shulker Box preview":"界伏盒預覽是否需要按住shift鍵",
 	"slotSyncWorkaround":"slotSync-同步方案",
 	"This prevents the server from overriding the durability or\nstack size on items that are being used quickly for example\nwith the fast right click tweak.":"這可以防止伺服器覆蓋正在快速使用的專案，比如連點器。",
-	"slotSyncWorkaroundAlways" :"slotsyncworkaroundalways-同步方案總是啟用",
+	"slotSyncWorkaroundAlways" :"slotsyncwork同步方案總是啟用",
 	"Enables the slot sync workaround at all times when the use key\nis held, not only when using fast right click or fast block placement.\nThis is mainly for other mods that may quickly use items when\nholding down use, such as Litematica's Easy Place mode." :"當使用此鍵時，不論使否啟用\n快速定向放置或快速右鍵\n當使用時給予其他模組快速使用物品\n例如:原理圖簡單放置",
 	"snapAimIndicator":"snapAimIndicator-瞄準輔助",
 	"Whether or not to render the snap aim angle indicator":"是否渲染瞄準角點指示器",
@@ -430,7 +427,7 @@
 	"The maximum dimensions for a Structure Block's saved area":"結構方塊所能儲存的最大範圍",
 	"zoomFov":"zoomFov-縮放視角",
 	"The FOV value used for the zoom feature":"用於縮放功能的視野值",
-	
+	//
 	"disableBlockBreakingParticles":"disableBlockBreaking-禁用方塊破碎粒子",
 	"Removes the block breaking particles.\n(This is originally from usefulmod by nessie.)":"移除由方塊破碎所產生的粒子效果（由nessie製作）",
 	"disableDoubleTapSprint":"disableDoubleTapSprint-禁用雙擊奔跑",
@@ -509,11 +506,11 @@
 	"The number of game ticks to hold down use":"該功能控制玩家持續使用右鍵的時間",
 	"periodicHoldUseInterval":"periodicHoldUse-右鍵持續CD",
 	"The number of game ticks between starting to hold down use (right click)":"該功能控制玩家每隔多少刻持續使用右鍵",
-	
+	//
 	"//coment3" :"列表更新",
 	"creativeExtraItems":"creativeExtra-創造額外物品清單",
 	"Extra items that should be appended to the creative inventory.\nCurrently these will appear in the Transportation category.\nIn the future the group per added item will be customizable.":"想要附加到創造模式清單當中的物品\n這些物品將會出現在運輸類別當中\n在未來的版本中每個新增項的組都是可自定義的（嗯，這是masa說的）",
-	
+	//
 	"//coment4" :"功能開啟設定更新",
 	"tweakCreativeExtraItems":"tweakCreativeExtra-創造額外物品",
 	"Adds custom items to item groups.\nSee Lists -> 'creativeExtraItems' to control which items are added to the groups.\nNote: Currently these will be added to the Transportation group\n(because it has the elast items), but in the future\nthe groups will be configurable per added item":"將自定義物品新增到物品庫\n檢視列表當中的（creativeExtra創造額外物品清單）\n來控制哪些物品將被新增進入物品庫\n注意：目前這些物品僅僅會被新增至運輸欄\n但是在將來這些物品將可以被任意新增至不同分類。",
@@ -525,25 +522,25 @@
 	"Enables periodically holding use for a configurable amount of time.\nConfigure the interval in Generic -> periodicHoldUseInterval\nand the duration in periodicHoldUseDuration\\n§6Note: You should not use the normal hold use§r\n§6or the periodic use at the same time§r":"啟用週期性長按右鍵\n其持續時間與循環週期在通用設定中調整\n§6注意：你不應該同時使用長按右鍵與該功能§r",
 	"tweakRenderEdgeChunks":"tweakRenderEdgeChunks-邊緣區塊渲染",
 	"Allows the edge-most client-loaded chunks to render.\nVanilla doesn't allow rendering chunks that don't have\nall the adjacent chunks loaded, meaning that the edge-most chunk\nof the client's loaded won't render in vanilla.\nThis is also very helpful in the Free Camera mode!":"允許渲染最邊緣客戶端所載入的區塊\n原版當中不允許渲染沒有載入所有相鄰的區塊\n這意味著客戶端載入的大部分邊緣區塊不能正常顯示\n§6這在靈魂出竅狀態下比較有用§r",
-	
+	//
 	"//coment5" :"通用設定快捷鍵更新",
 	"toggleGrabCursor":"toggleGrabCursor-滑鼠鎖定",
 	"Grabs or ungrabs the mouse cursor, depending on the current state":"抓取或取消抓取游標，當然這取決於目前狀態",
-	
+	//
 	"//coment6" :"飛行攝像機更新",
-	"freeCameraPlayerInputs":"freecameraplayerinputs-靈魂/身體控制切換",
+	"freeCameraPlayerInputs":"freecam&player-靈魂/身體控制切換",
 	"When enabled, the attacks and use actions\n(ie. left and right clicks) in Free Camera mode are\nlet through to the actual player.":"當啟用時，所有攻擊及使用動作\n(例如:左鍵及右鍵)在靈魂/身體操作模式下\n可以直接控制玩家本體",
 	"Toggle the Generic -> freeCameraPlayerInputs option":"啟用設置->靈魂/身體控制切換",
 	"Toggle the Generic -> freeCameraPlayerMovement option":"啟用設置->靈魂/身體操作切換",
-	
+	//
 	"//coment7" :"盔甲架更新",
 	"disableArmorStandRendering":"disableArmorStandRendering-禁用盔甲架渲染",
 	"Disabled all Armor Stand entity rendering":"阻止所有的盔甲架渲染",
-	
+	//
 	"//coment8" :"鞘翅胸甲更新",
 	"swapElytraChestplate":"swapElytraChestp-切換鞘翅胸甲",
 	"Swaps the currently equipped item in the chest slot between an Elytra and a Chest Plate":"在胸部護甲欄中切換一個換鞘翅及一個胸甲",
-	
+	//
 	"//coment9" :"物品展示框設定 以及 1.15潛行更新",
 	"hangableEntityBypassInverse":"hangableEntityInv-點擊無視懸掛實體",
 	"If the hangableEntityTargetingBypass tweak is enabled,\nthen this controls whether the player must be sneaking or\nnot sneaking to be able to target\nthe hangable entity (Item Frame or Painting).\n > true - Sneaking = ignore/bypass the entity\n > false - Sneaking = target the entity.":"當啟用點擊無視懸掛實體時\n這將控制是否需要蹲下或\n不須蹲下來觸發\n懸掛實體(物品展示框,畫)\n> true - 蹲下 = 無視/穿透 實體\n > false - 蹲下 = 觸發實體",
@@ -572,7 +569,7 @@
 	"disableWorldViewBob":"禁用世界觀察BOb",
 	"Disables the view bob wobble effect of the world, but not the hand":"禁用世界上看見bob擺動效果，但不禁用手",
         "//coment12":"捕貨",
-	"handRestockPreThreshold":"handRestockPreThreshold手中方塊補貨門檻",
+	"handRestockPreThreshold":"handRestock手中方塊補貨門檻",
 	"The stack size threshold at which Hand Restock will happen\nin the pre-restock mode":"在自動補貨的模式下\n將發生自動補貨的物品堆疊門檻",
 	"//coment12":"20210925TweakFork嘗試翻譯",
 	"dayCycleOverrideTime":"dayCycleOverrideTime指定遊戲刻",
@@ -587,9 +584,9 @@
 	"Minimum items a container needs to have to be displayed":"顯示容器所需最少的物品",
 	"containerScanMinTypes":"containerScanMinTypes掃描容器類型",
 	"Minimum item types a container needs to have to be displayed":"顯示容器所需類型最少的物品",
-	"afkTimeout":"afkTimeout斷線掛機",
-	"Number of ticks for AFK timeout":"掛機指定多少刻後,\n執行斷線",
-	"afkAction":"afkAction掛機動作",
+	"afkTimeout":"afkTimeout掛機下線",
+	"Number of ticks for AFK timeout":"掛機指定多少刻後,\n執行下線",
+	"afkAction":"afkAction掛機後的動作",
 	"The action to perform on AFK timeout. /disconnect is default.":"掛機逾時，\n/disconnect為默認指令",
 	"toolSwitchableSlots":"toolSwitchableSlots工具可切換的位置",
 	"The slots that the Tool Switch tweak is allowed to put tools to.\nNote that Tool Switch can also switch to other slots in the hotbar,\nif they already have the preferred tool, but it will only\nswap new tools to these slots":"工具開關調整的插槽允許放置工具。\n請注意，工具開關也可以切換到快捷欄中的其他插槽，\n如果他們已經擁有首選工具，但它只會\n將新工具交換到這些插槽中",
@@ -624,5 +621,120 @@
 	"Removes the boss bars":"刪除怪物條",
 	"Disables all Armor Stand entity rendering":"禁止所有盔甲架實體渲染",
 	"disableClientBlockEvents":"禁用客戶端方塊活動",
-	"Disables block event rendering (eg pistons animations)":"禁用客戶端渲染方塊活動\n(例如:活塞動畫)"
+	"Disables block event rendering (eg pistons animations)":"禁用客戶端渲染方塊活動\n(例如:活塞動畫)",
+	//2021/10/04
+	"areaSelectionUseAll":"使用已選擇的全部區域",
+	"Whether or not to include air in selection":"是否在選擇中包含空氣",
+	"restrictionLayerHeight":"限制層高度",
+	"selectiveBlocksTrackPistons":"在選擇方塊中追蹤活塞",
+	"Whether or not to track piston movements for selective block rendering":"是否跟蹤活塞運動以進行選擇性方塊渲染",
+	"selectiveBlocksHideParticles":"在選擇方塊中隱藏粒子",
+	"Whether or not to hide particles for selective block rendering":"是否隱藏粒子以進行選擇性方塊渲染",
+	"selectiveBlocksHideEntities":"在選擇方塊中隱藏實體",
+	"Whether or not to hide entities for selective block rendering":"是否隱藏實體以進行選擇性方塊渲染",
+	"selectiveBlocksNoHit":"在選擇方塊中不要命中(待調整)",
+	"Whether or not to disable targeting hidden blocks":"是否禁用定位的隱藏方塊(待調整)",
+	"stackFlexible":"靈活的堆疊",
+	"If enabled, then flexible block placement rotation\nand offsets can be set independantly\ndespite holding both hotkeys":"如果啟用,則旋轉放置靈活的方塊\n且可以獨立設定偏移量\n盡管同時按住了兩個熱鍵",
+	"tweakHideScoreboard":"調整隱藏計分牌",
+	"Hides the side scoreboard":"隱藏側邊計分牌",
+	"tweakPistonInfo":"調整活塞資訊",
+	"Allows you to see blockcounts/update orders for pistons":"允許你查找活塞的 方塊詳述/更新順序",
+	"tweakSelectiveBlocksRendering":"調整渲染已選擇方塊",
+	"Enables selectively visible blocks rendering":"啟用已選擇方塊的可見渲染",
+	"tweakSelectiveBlocksRenderOutline":"調整渲染已選擇方塊外框",
+	"Renders an outline over listed blocks":"在渲染上呈現的是方塊外框",
+	"tweakAreaSelector":"調整tweakfork的區域選擇",
+	"Enables the area selector":"啟用區域選擇器",
+	"tweakDayCycleOverride":"調整覆蓋遊戲循環時間",
+	"Overrides the time of day on the client only":"僅覆蓋客戶端的時間",
+	"tweakWeatherOverride":"調整天氣覆蓋",
+	"Overrides the weather on the client only":"僅覆蓋客戶端的天氣",
+	"tweakNoSneakSlowdown":"調整潛行不減速",
+	"Disables slowdown when sneaking":"關閉潛行時的緩速機制",
+	"tweakScaffoldPlace":"調整鷹架模式的放置",
+	"Place blocks as if they were scaffolding":"像搭建鷹架般放置方塊",
+	"tweakContainerScan":"調整容器掃描",
+	"Scans containers":"掃描容器",
+	"tweakContainerScanCounts":"調整詳述的容器掃描",
+	"Enables/disables container scan counts rendering":"開啟/關閉 渲染容器掃描的詳述",
+	"tweakAfkTimeout":"調整掛機時下線",
+	"When enabled, will perform an action after afking for a while":"啟用後,將使用 通用設置 內\nafktimeout設定的掛機多少刻後?\n執行斷線動作",
+	"pistonInfoPush":"活塞推出時的資訊",
+	"The key to activate the piston info mode for piston pushing":"設定此熱鍵可顯示,活塞進行推出時的資訊",
+	"pistonInfoPull":"活塞拉取時的資訊",
+	"The key to activate the piston info mode for piston pulling":"設定此熱鍵可顯示,活塞進行拉取時的資訊",
+	"pistonInfoClear":"清除活塞資訊",
+	//20220125
+	"The key to clear all piston info overlays":"設定此熱鍵，可以清除並覆蓋所有活塞資訊",
+	"autoFillContainerThreshold":"自動填充容器的物品數量",
+	"netherPortalSoundChance":"地獄門音效更改",
+	"villagerOfferUsesDisplay":"村民供給使用展示",
+    "netherPortalSoundChance": "netherPortalSoundChance | 地獄門音效概率",
+    "netherPortalSoundChance.comment": "地獄門方塊播放音效的概率\n將其設為0.001或0.0001來讓地獄門沒那麼吵",
+    "autoFillContainerThreshold": "autoFillContainerThreshold | 自動填充容器閾值",
+    "autoFillContainerThreshold.comment": "觸發工具 tweakmAutoFillContainer 所需要的最小的物品槽位數\n例如，如果你總是帶著2個格子的煙火，那麼你可以將其設定為3，\n那麼這些煙火物品將必定不會被用於填充容器",
+    "villagerOfferUsesDisplay": "villagerOfferUsesDisplay | 村民交易次數顯示",
+    "villagerOfferUsesDisplay.comment": "在村民交易列表中顯示目前交易的次數以及上限\n將指針移至交易的箭頭上來以顯示",
+
+    "handRestockListType": "handRestockListType | 自動補貨名單約束型別",
+    "handRestockListType.comment": "tweakHandRestock 工具的物品名單約束型別",
+    "handRestockWhiteList": "handRestockWhiteList | 自動補貨白名單",
+    "handRestockWhiteList.comment": "會觸發 tweakHandRestock 的物品",
+    "handRestockBlackList": "handRestockBlackList | 自動補貨黑名單",
+    "handRestockBlackList.comment": "不會觸發 tweakHandRestock 的物品",
+
+    "disableLightUpdates": "disableLightUpdates | 禁用光照更新",
+    "disableLightUpdates.comment": "禁用客戶端光照更新",
+    "disableRedstoneWireParticle": "disableRedstoneWireParticle | 禁用紅石粉粒子效果",
+    "disableRedstoneWireParticle.comment": "禁用紅石粉發出的粒子效果",
+
+    "tweakmAutoCleanContainer": "tweakmAutoCleanContainer | 自動清空容器",
+    "tweakmAutoCleanContainer.comment": "打開后容器，自動將容器內的所有物品扔出\n然後關閉容器",
+    "tweakmAutoCleanContainer.container_cleaned": "已扔出容器 %2$s 中 %1$s 個槽位中的所有物品",
+    "tweakmAutoFillContainer": "tweakmAutoFillContainer | 自動裝填容器",
+    "tweakmAutoFillContainer.comment": "打開后容器，自動使用物品欄中佔用格子數最多的物品裝填容器\n當且僅當佔用格子數最多的物品是唯一的\n然後關閉容器",
+    "tweakmAutoFillContainer.container_filled": "已使用所有 %2$s 物品裝填容器 %1$s (%3$s)",
+    "tweakmAutoFillContainer.best_slot_not_found": "未找到最適合裝填容器的物品",
+
+    "tweakmAutoPickSchematicBlock": "tweakmAutoPickSchematicBlock | 自動選擇原理圖方塊",
+    "tweakmAutoPickSchematicBlock.comment": "在放置方塊前自動選擇原理圖中的方塊對應的物品\n邏輯同litematica mod的pickBlock功能，你需要在litematica mod中啟用pickBlockEnabled選項\n在輕鬆放置開啟時無效",
+    "fastLeftClickAllowTools":"左鍵快速點擊准許的工具",
+    "If enabled, then the Flexible Block Placement and the\nAccurate Block Placement use the protocol implemented in Carpet mod.\n§6Note: This is required for any block rotations to work, other than\n§6blocks that only care about the block side you click on (Hoppers, Logs etc.)":"如果啟用，則靈活塊放置和\n精確塊放置使用在 Carpet mod 中實現的協議。\n§6注意:這是任何方塊旋轉所必需的\n§6除了您關心(漏斗,木頭)類的方塊除外",
+    "If enabled, then the Fast Block Placement feature will always remember\nthe orientation of the first block you place.\nWithout this, the orientation will only be remembered\nwith the Flexible Block Placement enabled and active.":"如果啟用，快速放置功能始終記住您第一方塊放置的朝向，\n§6缺少這項時，定向功能只在靈活方塊啟用&激活時被記住",
+    "If the hangableEntityTargetingBypass tweak is enabled,\nthen this controls whether the player must be or must not be\nsneaking to be able to target the hangable entity (Item Frame or Painting).\n > true - Sneaking = ignore/bypass the entity\n > false - Sneaking = target the entity":"如果將此項啟用，玩家不用擔心不小心點擊任何懸掛的實體，\n啟用 - 潛行 無視/忽略 點擊實體\n關閉 - 潛行 偷偷摸摸 點擊實體",
+    "If enabled, then the Flexible Block Placement status\nwill be remembered from the first placed block,\nas long as the use key (right click) is held down.\nBasically you don't have to keep holding all the flexible\nactivation keys to fast place all the blocks in the same orientation.":"如果啟用，只要按住使用鍵(右鍵點擊)，\n就會從第一個放置的方塊\n開始記憶方塊的靈活放置狀態",
+    "snapAimOnlyCloseToAngle":"捕捉輔助瞄準的接近角度",
+    "If enabled, then the snap aim only snaps to the angle\nwhen the internal angle is within a certain distance of it.\nThe threshold can be set in snapAimThreshold":"如果啟用,調用snapAimThreshold中的值，\n更換輔助瞄準中接近設定角度的值。",
+    "snapAimThresholdPitch":"輔助瞄準 俯角切換接近值",
+    "The angle threshold inside which the player rotation will\nbe snapped to the snap angle.":"此值表示，\n捕捉玩家朝向角度，\n是否接近捕捉角度的值。",
+    "snapAimThresholdYaw":"輔助瞄準 轉角切換接近值",
+    //20220204
+    "The layer height for the layer restriction mode.\nTo quickly adjust the value, scroll while\nholding down the tweak toggle keybind.":"圖層限制模式的高度限制,\n按住快捷鍵+配合滾輪，快速調整值。",
+    "blockTypeBreakRestrictionWarn":"禁止破壞的警示方式",
+    "Selects which type of warning message to show (if any)\nwhen the Block Type Break Restriction feature prevents breaking a block":"當成功禁止破壞方塊，\n你想要哪種警示方式?",
+    "noteEditLetters":"調整音階盒",
+    "When enabled, can use letter keys to set noteblock notes":"啟用時\n，使用字母鍵來調整音階盒。",
+
+    "blockTypeBreakRestrictionListType":"禁止破壞方塊模式",
+    "The restriction list type for the Block Type Break Restriction tweak":"選擇你需要的禁止破壞方塊模式",
+    "blockTypeBreakRestrictionBlackList":"禁破塊-黑名單",
+    "The blocks that are NOT allowed to be broken while the Block Break Restriction tweak is enabled,\nif the blockBreakRestrictionListType is set to Black List":"啟用禁止破壞方塊功能，\n不想破壞的方塊，請加入在黑名單中。",
+    "blockTypeBreakRestrictionWhiteList":"禁破塊-白名單",
+    "The only blocks that can be broken while the Block Break Restriction tweak is enabled,\nif the blockBreakRestrictionListType is set to White List":"啟用禁止破壞方塊功能，\n想破壞的方塊，請加入在白名單中。",
+
+    "§6disableBatSpawning§r":"§6禁止蝙蝠生成§r",
+    "Disables Bat spawning in single player":"在單人遊戲中，禁止鞭蝠生成。",
+    "disableNetherPortalSound":"禁止地獄門的音效",
+    "Disables the Nether Portal sound":"取消可怕地獄門的環境音效。",
+    "disableScoreboardRendering":"禁止計分板渲染",
+    "Removes the sidebar scoreboard rendering":"取消側邊的計分板的顯示。",
+    "disableShulkerBoxTooltip":"禁止界伏盒內容提示",
+    "Disables the vanilla text tooltip for Shulker Box contents":"界伏盒在物品狀態，取消顯示內容物。",
+    "disableShovelPathing":"禁止鏟子右鍵鏟土",
+    "Disables converting grass etc. to Path Blocks with a shovel":"取消鏟子將土類方塊，鏟成土徑。",
+    "disableStructureRendering":"禁止結構方塊渲染",
+    "Disables structure block rendering":"禁止結構方塊渲染"
+    //20220204
+    //next update
 }
