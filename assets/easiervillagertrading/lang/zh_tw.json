@@ -1,0 +1,4 @@
+{
+    "easiervillagertrading.config.swapshift": "將交易所有物品設定為默認值",
+    "easiervillagertrading.config.tt.swapshift": "如果此設定為false 使用shift將交易所有物品\n如果設定為true 使用shift將會交易一次 正常交易將會交易所有物品"
+}

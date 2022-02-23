@@ -122,5 +122,7 @@
 	"Modifier key to move the entire stack to the other\ninventory when scrolling over it":"當在堆疊上滾動時，修飾鍵將整個堆疊移動到另一個庫存",
 	"modifierToggleVillagerGlobalFavorite":"ModifierToggle-開啟全域性最愛的交易",
 	"Modifier key to hold while middle clicking a trade,\nto toggle the global favorite state for that trade.\nGlobal favorites are used for villagers that don't have any specific favorites set.":"當用鼠標中鍵在交易上點擊時，\n將開啟全域性最愛的交易，\n全域最愛交易將套用在沒有個別最愛的交易村民上",
-  	"itemscroller.gui.title.configs": "物品滾輪配置漢化——台紅科翻譯（TWRCS）-2021.06.19"
+	"itemscroller.message.toggled_mod_off": "切換所有功能 §c關閉",
+    "itemscroller.message.toggled_mod_on": "切換所有功能 §a開啟",
+	"itemscroller.gui.title.configs": "物品滾輪配置漢化——台紅科翻譯（TWRCS）-2022.02.23"
 }

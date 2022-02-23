@@ -1,0 +1,15 @@
+{
+  "key.ingameime.hotkey": "切換輸入法狀態",
+  "category.ingameime.keybinding": "IngameIME",
+  "alpha.ingameime.mode": "A",
+  "native.ingameime.mode": "中",
+  "config.title": "IngameIME 配置",
+  "config.category.chat": "聊天欄",
+  "desc.disableIMEInCommandMode": "在命令模式關閉輸入法",
+  "tooltip.disableIMEInCommandMode": "(即按 / 打開聊天欄時)",
+  "desc.autoReplaceSlashChar": "自動替換命令前綴 (\"、 -> /\")",
+  "tooltip.autoReplaceSlashChar": "當聊天框的光標在零位時",
+  "desc.slashChars": "應當被替換為 \"/\" 的字符",
+  "desc.error.slashChars": "每行一個字符",
+  "tooltip.slashChars": "配合\"自動替換命令前綴\"使用"
+}

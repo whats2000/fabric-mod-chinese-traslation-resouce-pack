@@ -1,0 +1,13 @@
+{
+  "enhanced_attack_indicator.tinyconfig.title": "暴擊指示器",
+  "enhanced_attack_indicator.tinyconfig.showBlockBreaking": "顯示破壞方塊的進度",
+  "enhanced_attack_indicator.tinyconfig.showRangeWeaponDraw": "Show Ranged Weapon Draw",
+  "enhanced_attack_indicator.tinyconfig.showItemCooldowns": "顯示物品冷卻",
+  "enhanced_attack_indicator.tinyconfig.disablePickaxesAndShovels": "取消稿子和鏟子的冷卻時間",
+  "enhanced_attack_indicator.tinyconfig.disableAxes": "取消斧頭冷卻時間",
+  "enhanced_attack_indicator.tinyconfig.weaponCoolDownImportance": "優先顯示武器冷卻",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.FIRST": "第一",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.MIDDLE": "中間",
+  "enhanced_attack_indicator.tinyconfig.enum.WeaponCoolDownImportance.LAST": "最後"
+
+}

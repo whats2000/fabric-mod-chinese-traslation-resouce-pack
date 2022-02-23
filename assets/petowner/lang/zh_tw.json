@@ -1,0 +1,14 @@
+{
+  "text.petowner.config.title": "寵物擁有者配置 §7(Pet Owner)",
+  "text.petowner.config.mode": "按鍵模式 (僅在設置了快捷鍵後生效)",
+  "text.petowner.config.always_show": "寵物在視線外時仍顯示其擁有者",
+  "text.petowner.config.show_keybind_message": "顯示快捷鍵信息",
+
+  "text.petowner.message.owner": "§3該寵物歸屬於: %s",
+  "text.petowner.message.error": "§4出現了一點小問題",
+  "text.petowner.message.enabled": "§a§l已顯示 §r寵物名稱",
+  "text.petowner.message.disabled": "§c§l已隱藏 §r寵物名稱",
+
+  "category.petowner.title": "寵物擁有者",
+  "key.petowner.hide": "隱藏寵物擁有者"
+}
