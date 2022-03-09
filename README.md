@@ -1,16 +1,33 @@
 # fabric-mod-chinese-traslation-resouce-pack
 Making traslate for mod<br>
 ###### 目前zh_tw有翻譯有
+* Advanced NBT Tooltips
+* appleskin
+* authme
+* auto reconnect
 * betterf3
 * breakprogress
+* chest tracker
+* clientcommands
+* easierchests
+* easiervillagertrading
+* enhanced attack indicator
 * entityyoutliner
 * foodui
+* fuelinfo
+* ingameime
 * itemscroller
 * lightoverlay
 * litematica
 * malilib
+* masa gadge
 * minihud
-* tweakeroo + tweakfork<br>
+* modmenu
+* petowner
+* sodium extra
+* timetolive
+* tweakeroo + tweakfork
+* waila<br>
 
 註:請全部用UTF8<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>

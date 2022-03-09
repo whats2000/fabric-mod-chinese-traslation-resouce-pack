@@ -1,0 +1,10 @@
+{
+  "timetolive.config.menu": "TNT爆炸顯示(剩下多久能活) 設定選單",
+  "timetolive.config.general": "一般",
+  "timetolive.config.option.enable": "開啟或關閉爆炸計數器",
+  "timetolive.config.option.enable.enabled": "啟用",
+  "timetolive.config.option.enable.disabled": "不啟用",
+  "timetolive.config.option.displayticks": "選擇以tick或秒作為顯示單位",
+  "timetolive.config.option.displayticks.ticks": "Ticks",
+  "timetolive.config.option.displayticks.seconds": "秒"
+}

@@ -25,6 +25,8 @@
   "config.betterf3.animations.tooltip": "當你開關F3除錯介面時，加入飛入效果的動畫。",
   "config.betterf3.animationSpeed": "動畫速度",
   "config.betterf3.animationSpeed.tooltip": "設定動畫的演出時間。",
+  "config.betterf3.fontScale": "字體縮放",
+  "config.betterf3.fontScale.tooltip": "設置字體縮放",
   "config.betterf3.category.modules": "模塊",
   "config.betterf3.disable_line.tooltip": "啟用行目",
   "config.betterf3.color.name": "名稱顏色",
