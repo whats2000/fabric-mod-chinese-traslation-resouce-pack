@@ -6,6 +6,7 @@ Making traslate for mod<br>
 * authme
 * auto reconnect
 * betterf3
+* bettersodiumbutton
 * breakprogress
 * chest tracker
 * clientcommands
@@ -23,11 +24,13 @@ Making traslate for mod<br>
 * masa gadge
 * minihud
 * modmenu
+* ommc
 * petowner
 * sodium extra
 * timetolive
 * tweakeroo + tweakfork
-* waila<br>
+* waila
+* xaeroworldmap<br>
 
 註:請全部用UTF8<br>
 簡體翻譯來源 : https://www.bilibili.com/read/cv6583563<br>
