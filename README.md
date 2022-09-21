@@ -6,6 +6,7 @@ Making traslate for mod<br>
 * authme
 * auto reconnect
 * betterf3
+* bettersodiumbutton
 * breakprogress
 * chest tracker
 * clientcommands
@@ -23,6 +24,7 @@ Making traslate for mod<br>
 * masa gadge
 * minihud
 * modmenu
+* ommc
 * petowner
 * sodium extra
 * timetolive
